@@ -64,14 +64,6 @@
         "abstract_": "N/A"
     },
     {
-        "title": "Understanding Blockchain Technology: Abstracting the Blockchain",
-        "authors": "Morgen Peck",
-        "date_pub": "2018",
-        "source": "IEEE Xplore",
-        "journal": "IEEE",
-        "abstract_": "N/A"
-    },
-    {
         "title": "Air Gapped Wallet Schemes and Private Key Leakage in Permissioned Blockchain Platforms",
         "authors": "Amanda Davenport;\nSachin Shetty",
         "date_pub": "2019",
@@ -80,9 +72,25 @@
         "abstract_": "N/A"
     },
     {
+        "title": "Understanding Blockchain Technology: Abstracting the Blockchain",
+        "authors": "Morgen Peck",
+        "date_pub": "2018",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
         "title": "Introduction to Blockchain",
         "authors": "Akshay Mudgal",
         "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Subsidy-Chain: A Secure Blockchain-based Architecture for Subsidy Management and Tracking",
+        "authors": "K Dyamalli;\nRupalagudi Likhitha;\nY Harshitha Reddy;\nMonica N;\nArshiya Lubna;\nAshishika Singh",
+        "date_pub": "2025",
         "source": "IEEE Xplore",
         "journal": "IEEE",
         "abstract_": "N/A"
@@ -123,6 +131,14 @@
         "title": "Research and Design of Electric Power Engineering Project Management System Bsed on Blockchain Technology",
         "authors": "Qinglei Guo;\nShuai Chen;\nJunsheng Wang;\nXiaoting Pan",
         "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Routing Cross-Blockchain Communication",
+        "authors": "Max Kobelt;\nMichael Sober;\nStefan Schulte;\nLeandro Rometsch",
+        "date_pub": "2025",
         "source": "IEEE Xplore",
         "journal": "IEEE",
         "abstract_": "N/A"
@@ -176,17 +192,17 @@
         "abstract_": "N/A"
     },
     {
-        "title": "A Reputation Management Framework for Knowledge-Based and Probabilistic Blockchains",
-        "authors": "Tara Salman;\nRaj Jain;\nLav Gupta",
-        "date_pub": "2019",
+        "title": "Security Assessment Model for Blockchain Software and Hardware Fusion Device Based on Decision Tree Algorithm",
+        "authors": "Ke Yang;\nShuang Sun;\nMingyang Lei;\nWeiyu Wang;\nXiukui Pan",
+        "date_pub": "2023",
         "source": "IEEE Xplore",
         "journal": "IEEE",
         "abstract_": "N/A"
     },
     {
-        "title": "Security Assessment Model for Blockchain Software and Hardware Fusion Device Based on Decision Tree Algorithm",
-        "authors": "Ke Yang;\nShuang Sun;\nMingyang Lei;\nWeiyu Wang;\nXiukui Pan",
-        "date_pub": "2023",
+        "title": "A Reputation Management Framework for Knowledge-Based and Probabilistic Blockchains",
+        "authors": "Tara Salman;\nRaj Jain;\nLav Gupta",
+        "date_pub": "2019",
         "source": "IEEE Xplore",
         "journal": "IEEE",
         "abstract_": "N/A"
@@ -216,17 +232,17 @@
         "abstract_": "N/A"
     },
     {
-        "title": "ChainSplitter: Towards Blockchain-Based Industrial IoT Architecture for Supporting Hierarchical Storage",
-        "authors": "Gang Wang;\nZhijie Shi;\nMark Nixon;\nSong Han",
-        "date_pub": "2019",
+        "title": "IEEE Guide for an Architectural Framework for Blockchain‐Based Federated Machine Learning",
+        "authors": "Unknown",
+        "date_pub": "2025",
         "source": "IEEE Xplore",
         "journal": "IEEE",
         "abstract_": "N/A"
     },
     {
-        "title": "IEEE Guide for an Architectural Framework for Blockchain‐Based Federated Machine Learning",
-        "authors": "Unknown",
-        "date_pub": "2025",
+        "title": "ChainSplitter: Towards Blockchain-Based Industrial IoT Architecture for Supporting Hierarchical Storage",
+        "authors": "Gang Wang;\nZhijie Shi;\nMark Nixon;\nSong Han",
+        "date_pub": "2019",
         "source": "IEEE Xplore",
         "journal": "IEEE",
         "abstract_": "N/A"
@@ -296,17 +312,17 @@
         "abstract_": "N/A"
     },
     {
-        "title": "Containerchain: A Blockchain System Emulator based on Mininet and Containers",
-        "authors": "Saul Gill;\nBrian Lee;\nYuansong Qiao",
-        "date_pub": "2021",
+        "title": "BrokerChain: A Blockchain Sharding Protocol by Exploiting Broker Accounts",
+        "authors": "Huawei Huang;\nZhaokang Yin;\nQinde Chen;\nJian Zheng;\nXiaofei Luo;\nGuang Ye;\nXiaowen Peng;\nZibin Zheng;\nSong Guo",
+        "date_pub": "2025",
         "source": "IEEE Xplore",
         "journal": "IEEE",
         "abstract_": "N/A"
     },
     {
-        "title": "BrokerChain: A Blockchain Sharding Protocol by Exploiting Broker Accounts",
-        "authors": "Huawei Huang;\nZhaokang Yin;\nQinde Chen;\nJian Zheng;\nXiaofei Luo;\nGuang Ye;\nXiaowen Peng;\nZibin Zheng;\nSong Guo",
-        "date_pub": "2025",
+        "title": "Containerchain: A Blockchain System Emulator based on Mininet and Containers",
+        "authors": "Saul Gill;\nBrian Lee;\nYuansong Qiao",
+        "date_pub": "2021",
         "source": "IEEE Xplore",
         "journal": "IEEE",
         "abstract_": "N/A"
@@ -371,22 +387,6 @@
         "title": "Design and Application of Product Traceability Blockchain-based Platform",
         "authors": "Yu Zhang;\nMenglu Jin;\nGuiping Zheng;\nHu Li",
         "date_pub": "2020",
-        "source": "IEEE Xplore",
-        "journal": "IEEE",
-        "abstract_": "N/A"
-    },
-    {
-        "title": "Research and Application of Renewable Energy Power Consumption Certificate Based on Blockchain",
-        "authors": "Tingting Duan;\nDa Li;\nQinglei Guo;\nHejian Wang;\nDesheng Bai",
-        "date_pub": "2021",
-        "source": "IEEE Xplore",
-        "journal": "IEEE",
-        "abstract_": "N/A"
-    },
-    {
-        "title": "Blockchain Implementation for Analysis of Carbon Footprint across Food Supply Chain",
-        "authors": "Denisolt Shakhbulatov;\nArshit Arora;\nZiqian Dong;\nRoberto Rojas-Cessa",
-        "date_pub": "2019",
         "source": "IEEE Xplore",
         "journal": "IEEE",
         "abstract_": "N/A"

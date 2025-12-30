@@ -1,152 +1,8 @@
 [
     {
-        "title": "Technology Predictions and Software Engineering with Blockchain-Network Synergy",
-        "authors": "Hironori Washizaki",
-        "date_pub": "2025",
-        "source": "ACM Digital Library",
-        "journal": "ACM",
-        "abstract_": "N/A"
-    },
-    {
-        "title": "Research on the Sensitive Data Supervision Based on Blockchain",
-        "authors": "Yu Meng, Jiarun Huang, Xingchuan Liu",
-        "date_pub": "2025",
-        "source": "ACM Digital Library",
-        "journal": "ACM",
-        "abstract_": "N/A"
-    },
-    {
-        "title": "A Lightweight Blockchain-Based System for Efficient Metaverse Services",
-        "authors": "Chengzu Dong, Shantanu Pal, Kai Fang, Frank Jiang, Shiping Chen, + 3",
-        "date_pub": "2025",
-        "source": "ACM Digital Library",
-        "journal": "ACM",
-        "abstract_": "N/A"
-    },
-    {
-        "title": "DAA-Based Emergency Medical Data Access Control on Public Blockchain",
-        "authors": "Taisei Takahashi, Kazumasa Omote",
-        "date_pub": "2025",
-        "source": "ACM Digital Library",
-        "journal": "ACM",
-        "abstract_": "N/A"
-    },
-    {
-        "title": "Design and Implementation of a Blockchain-Based Family Insurance Policy Inquiry System",
-        "authors": "Chih-Chung Lin, Yuan-Cheng Lai, Bo-Han Ciou, Yao-Te Tsai, Zhi-Lin Xu, + 1",
-        "date_pub": "2025",
-        "source": "ACM Digital Library",
-        "journal": "ACM",
-        "abstract_": "N/A"
-    },
-    {
-        "title": "An Autonomous, Adaptive and Trackable Decentralized Applications Upgrade System (DAUS) Using a Blockchain",
-        "authors": "Xiao Tan, Siu Ming Yiu, Kani Chen",
-        "date_pub": "2025",
-        "source": "ACM Digital Library",
-        "journal": "ACM",
-        "abstract_": "N/A"
-    },
-    {
-        "title": "A Blockchain-Based Accident Forensics System for Smart Connected Vehicles",
-        "authors": "Caihua Zhu, Juhao Hu, Jing Wu, Chengnian Long, Xueming Si",
-        "date_pub": "2024",
-        "source": "ACM Digital Library",
-        "journal": "ACM",
-        "abstract_": "N/A"
-    },
-    {
-        "title": "HEMVM: A Heterogeneous Blockchain Framework for Interoperable Virtual Machines",
-        "authors": "Vladyslav Nekriach, Sidi Mohamed Beillahi, Chenxing Li, Peilun Li, Ming Wu, + 2",
-        "date_pub": "2025",
-        "source": "ACM Digital Library",
-        "journal": "ACM",
-        "abstract_": "N/A"
-    },
-    {
-        "title": "Optimizing Notary Election for Cross-Chain Blockchain Transactions Using SVM",
-        "authors": "Ling Cao, Zihao Wang",
-        "date_pub": "2025",
-        "source": "ACM Digital Library",
-        "journal": "ACM",
-        "abstract_": "N/A"
-    },
-    {
-        "title": "Blockchain-Enabled SDN Audit System for On-chain Off-chain Communication Networks",
-        "authors": "Daming Huang, Jincheng Xiang, Yu Jin, Chen Tian",
-        "date_pub": "2025",
-        "source": "ACM Digital Library",
-        "journal": "ACM",
-        "abstract_": "N/A"
-    },
-    {
-        "title": "Efficient Dynamic Pricing Strategy for Integrated Energy System under Information Asymmetry: A Game-theoretic Perspective from Blockchain",
-        "authors": "Hao Ding, Yuxi Hong, Can Wang, Xuefeng Piao, Jiasi Li, Huihui Song, Zhenzhou Ji",
-        "date_pub": "2025",
-        "source": "ACM Digital Library",
-        "journal": "ACM",
-        "abstract_": "N/A"
-    },
-    {
-        "title": "Enhancing Pension Asset Reinvestment via Blockchain Tokenization",
-        "authors": "Yash Madhwal, Yury Yanovich, Maria Malysheva, Vyacheslav Davydov",
-        "date_pub": "2025",
-        "source": "ACM Digital Library",
-        "journal": "ACM",
-        "abstract_": "N/A"
-    },
-    {
-        "title": "Research on Blockchain Scaling Based on Smart Contracts",
-        "authors": "Zhixing Zhang, Jing Cheng, Libo Feng, Junhong Liu, Zehui Yuan, + 4",
-        "date_pub": "2024",
-        "source": "ACM Digital Library",
-        "journal": "ACM",
-        "abstract_": "N/A"
-    },
-    {
-        "title": "Privacy-Preserving Energy Trading: A TEE-Based Blockchain Solution Using Secret Network",
-        "authors": "Haseeb Saeed, Syed Muhammad Danish, Kaiwen Zhang",
-        "date_pub": "2025",
-        "source": "ACM Digital Library",
-        "journal": "ACM",
-        "abstract_": "N/A"
-    },
-    {
-        "title": "Balancing Algorithmic Authority and Social Trust : Lessons from CHO Group's Blockchain Integration in Agri-Food Supply Chain",
-        "authors": "Régis Barondeau, Mahdi Bali",
-        "date_pub": "2025",
-        "source": "ACM Digital Library",
-        "journal": "ACM",
-        "abstract_": "N/A"
-    },
-    {
-        "title": "Portable Blockchain for System Testing of Solana Smart Contracts",
-        "authors": "Yash Madhwal, Yury Yanovich, Grigoriy Zhintiy",
-        "date_pub": "2025",
-        "source": "ACM Digital Library",
-        "journal": "ACM",
-        "abstract_": "N/A"
-    },
-    {
-        "title": "Blockchain Applications in Carbon Credit Fraud Detection",
-        "authors": "Cheng-En Lee, Man-Chien Hsu, Wai-Pui Wilbur Kwan, Hsu-Chien Ting, + 1",
-        "date_pub": "2025",
-        "source": "ACM Digital Library",
-        "journal": "ACM",
-        "abstract_": "N/A"
-    },
-    {
-        "title": "Key Determinants of Blockchain Adoption: A Unified Framework Integrating UTAUT and TOE Models",
-        "authors": "Kelwin Seen Tiong Tan, Angela Siew Hoong Lee",
-        "date_pub": "2025",
-        "source": "ACM Digital Library",
-        "journal": "ACM",
-        "abstract_": "N/A"
-    },
-    {
-        "title": "Machine Learning for Blockchain Data Analysis: Progress and Opportunities",
-        "authors": "Poupak Azad, Cuneyt Gurcan Akcora, Arijit Khan",
-        "date_pub": "2025",
+        "title": "",
+        "authors": "",
+        "date_pub": "Unknown Date",
         "source": "ACM Digital Library",
         "journal": "ACM",
         "abstract_": "N/A"
@@ -154,14 +10,6 @@
     {
         "title": "Review of Barriers to Implement Blockchain Technologies in Logistics",
         "authors": "Sinan Cizmecioglu, Ahmet Calik, Esra Boz",
-        "date_pub": "2025",
-        "source": "ACM Digital Library",
-        "journal": "ACM",
-        "abstract_": "N/A"
-    },
-    {
-        "title": "Blockchain-based access control dynamic key authentication protocol in IoT",
-        "authors": "Xiaoran Zhao, Changgen Peng, Weijie Tan, Hongfa Ding",
         "date_pub": "2025",
         "source": "ACM Digital Library",
         "journal": "ACM",
@@ -176,16 +24,40 @@
         "abstract_": "N/A"
     },
     {
-        "title": "Design of Educational Data Management System with Blockchain and High Functional Digital Signatures",
-        "authors": "Yudai Hata, Kouichi Sakurai",
+        "title": "Blockchain Security and Privacy: Threats, Challenges, Applications, and Tools",
+        "authors": "Ahod Alghuried, Mohammed Alkinoon, Manar Mohaisen, An Wang, Cliff Zou, + 1",
         "date_pub": "2025",
         "source": "ACM Digital Library",
         "journal": "ACM",
         "abstract_": "N/A"
     },
     {
-        "title": "An Approach of Monitoring the Vehicle's Condition Based on Blockchain and Smart Contracts",
-        "authors": "Stanislav Ivanovich Trofimov, Leonid Sergeevich Voskov, Mikhail Mikhailovich Komarov",
+        "title": "Machine Learning for Blockchain Data Analysis: Progress and Opportunities",
+        "authors": "Poupak Azad, Cuneyt Gurcan Akcora, Arijit Khan",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Key Determinants of Blockchain Adoption: A Unified Framework Integrating UTAUT and TOE Models",
+        "authors": "Kelwin Seen Tiong Tan, Angela Siew Hoong Lee",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-based access control dynamic key authentication protocol in IoT",
+        "authors": "Xiaoran Zhao, Changgen Peng, Weijie Tan, Hongfa Ding",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Design of Educational Data Management System with Blockchain and High Functional Digital Signatures",
+        "authors": "Yudai Hata, Kouichi Sakurai",
         "date_pub": "2025",
         "source": "ACM Digital Library",
         "journal": "ACM",
@@ -200,8 +72,8 @@
         "abstract_": "N/A"
     },
     {
-        "title": "Research into the integration of blockchain technology and full life cycle auditing of PPP projects",
-        "authors": "Yanru Kong, Jiawu Yue",
+        "title": "An Approach of Monitoring the Vehicle's Condition Based on Blockchain and Smart Contracts",
+        "authors": "Stanislav Ivanovich Trofimov, Leonid Sergeevich Voskov, Mikhail Mikhailovich Komarov",
         "date_pub": "2025",
         "source": "ACM Digital Library",
         "journal": "ACM",
@@ -216,48 +88,8 @@
         "abstract_": "N/A"
     },
     {
-        "title": "TLD-SCA: A Transformer-LSTM Detection Model against Side-Channel Attack in Blockchain Payment Channel",
-        "authors": "Tao Li, Fei Qiao, Yijia Wang, Kui Lu, Yan Lv, Yilei Wang",
-        "date_pub": "2025",
-        "source": "ACM Digital Library",
-        "journal": "ACM",
-        "abstract_": "N/A"
-    },
-    {
-        "title": "Certifichain: Secure QR Codes for Blockchain-Verified Digital Credentials",
-        "authors": "Yudha Purwanto, Muhammad Faris Ruriawan, Agus Virgono, Hamzah Fatihulhaq, + 5",
-        "date_pub": "2025",
-        "source": "ACM Digital Library",
-        "journal": "ACM",
-        "abstract_": "N/A"
-    },
-    {
         "title": "Calling for Play-Oriented Research on Blockchain Video Games: An Overview Study",
         "authors": "Hugh X. Liu, Jussi P. Holopainen",
-        "date_pub": "2025",
-        "source": "ACM Digital Library",
-        "journal": "ACM",
-        "abstract_": "N/A"
-    },
-    {
-        "title": "Blockchain Amplification Attack",
-        "authors": "Taro Tsuchiya, Liyi Zhou, Kaihua Qin, Arthur Gervais, Nicolas Christin",
-        "date_pub": "2025",
-        "source": "ACM Digital Library",
-        "journal": "ACM",
-        "abstract_": "N/A"
-    },
-    {
-        "title": "SoK: Blockchain Consensus in the Quantum Age",
-        "authors": "Aleck Nash, Christian Eduardo Terron Garcia, Henry Chimal-Dzul, + 1",
-        "date_pub": "2025",
-        "source": "ACM Digital Library",
-        "journal": "ACM",
-        "abstract_": "N/A"
-    },
-    {
-        "title": "Safeguarding Blockchain Ecosystem: Understanding and Detecting Attack Transactions on Cross-chain Bridges",
-        "authors": "Jiajing Wu, Kaixin Lin, Dan Lin, Bozhao Zhang, Zhiying Wu, Jianzhong Su",
         "date_pub": "2025",
         "source": "ACM Digital Library",
         "journal": "ACM",
@@ -272,8 +104,32 @@
         "abstract_": "N/A"
     },
     {
-        "title": "Enhancing Blockchain Scalability using Off-Chain and Machine Learning Techniques",
-        "authors": "Manjula K. Pawar, Prakashgoud Patil, P. S. Hiremath",
+        "title": "Research into the integration of blockchain technology and full life cycle auditing of PPP projects",
+        "authors": "Yanru Kong, Jiawu Yue",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Certifichain: Secure QR Codes for Blockchain-Verified Digital Credentials",
+        "authors": "Yudha Purwanto, Muhammad Faris Ruriawan, Agus Virgono, Hamzah Fatihulhaq, + 5",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Safeguarding Blockchain Ecosystem: Understanding and Detecting Attack Transactions on Cross-chain Bridges",
+        "authors": "Jiajing Wu, Kaixin Lin, Dan Lin, Bozhao Zhang, Zhiying Wu, Jianzhong Su",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "TLD-SCA: A Transformer-LSTM Detection Model against Side-Channel Attack in Blockchain Payment Channel",
+        "authors": "Tao Li, Fei Qiao, Yijia Wang, Kui Lu, Yan Lv, Yilei Wang",
         "date_pub": "2025",
         "source": "ACM Digital Library",
         "journal": "ACM",
@@ -288,32 +144,32 @@
         "abstract_": "N/A"
     },
     {
-        "title": "The Application of Blockchain Technology in International Commercial Arbitration",
-        "authors": "Xin Yang, Ziqing Zhang, Yi Zhou",
+        "title": "Enhancing Blockchain Scalability using Off-Chain and Machine Learning Techniques",
+        "authors": "Manjula K. Pawar, Prakashgoud Patil, P. S. Hiremath",
         "date_pub": "2025",
         "source": "ACM Digital Library",
         "journal": "ACM",
         "abstract_": "N/A"
     },
     {
-        "title": "Cross-Blockchain Communication Using Oracles With an Off-Chain Aggregation Mechanism Based on zk-SNARKs",
-        "authors": "Michael Sober, Giulia Scaffino, Stefan Schulte",
-        "date_pub": "2024",
-        "source": "ACM Digital Library",
-        "journal": "ACM",
-        "abstract_": "N/A"
-    },
-    {
-        "title": "Blockchain Agnostic Protocols: An Analysis of the State of the Art",
-        "authors": "Alessandro Bigiotti, Leonardo Mostarda, Alfredo Navarra, Andrea Pinna, + 3",
+        "title": "SoK: Blockchain Consensus in the Quantum Age",
+        "authors": "Aleck Nash, Christian Eduardo Terron Garcia, Henry Chimal-Dzul, + 1",
         "date_pub": "2025",
         "source": "ACM Digital Library",
         "journal": "ACM",
         "abstract_": "N/A"
     },
     {
-        "title": "Lightweight Consensus in Blockchain: A Systematic Literature Review",
-        "authors": "Namrata Marium Chacko, Narendra V G, Mamatha Balachandra, Manoj T",
+        "title": "Blockchain Amplification Attack",
+        "authors": "Taro Tsuchiya, Liyi Zhou, Kaihua Qin, Arthur Gervais, Nicolas Christin",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Accelerating Verifiable Queries over Blockchain Database System Using Processing-in-memory",
+        "authors": "Yifan Hua, Shengan Zheng, Weihan Kong, Dongliang Xue, Ke Xi, + 3",
         "date_pub": "2025",
         "source": "ACM Digital Library",
         "journal": "ACM",
