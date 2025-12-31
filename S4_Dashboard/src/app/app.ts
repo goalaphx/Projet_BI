@@ -1,14 +1,16 @@
 import { Component } from '@angular/core';
-import { RouterOutlet } from '@angular/router';
-import { DashboardComponent } from './dashboard/dashboard'; // <--- 1. Import it
+import { CommonModule } from '@angular/common';
+import { Dashboard } from './dashboard/dashboard'; // Check path
 
 @Component({
   selector: 'app-root',
-  standalone: true,
-  imports: [RouterOutlet, DashboardComponent], // <--- 2. Add it here
-  templateUrl: './app.html',
-  styleUrl: './app.css'
+  standalone: true, // <--- CRITICAL: Must be true
+  imports: [CommonModule, Dashboard], // Import your Dashboard here
+  template: `
+    <app-dashboard></app-dashboard>
+  `,
+  styleUrls: ['./app.css']
 })
-export class App {
+export class AppComponent {
   title = 'S4_Dashboard';
 }

@@ -1,103 +1,238 @@
-from flask import Flask, jsonify
+import sys
+import itertools
+from flask import Flask, jsonify, request
 from flask_cors import CORS
 from pymongo import MongoClient
-import random
-import hashlib
+from pymongo.errors import ServerSelectionTimeoutError
 
 app = Flask(__name__)
-CORS(app)
 
-# Connect to MongoDB
-client = MongoClient("mongodb://mongodb:27017/")
-db = client["aci"]
-collection = db["articles"]
+# 1. ALLOW ALL ORIGINS
+CORS(app, resources={r"/*": {"origins": "*"}})
 
-# --- HELPER: SIMULATION DATA ---
-# Since we lack real metadata, we simulate it for the BI requirements
+# 2. CONNECT TO MONGODB (Docker Friendly)
+# We use 'host.docker.internal' to reach MongoDB running on the host machine/docker desktop
+MONGO_URI = "mongodb://host.docker.internal:27017/" 
 
+try:
+    client = MongoClient(MONGO_URI, serverSelectionTimeoutMS=5000)
+    db = client["aci"]
+    collection = db["fact_publications"]
+    client.server_info() # Trigger connection check
+    print("✅ Connected to MongoDB successfully!")
+except ServerSelectionTimeoutError:
+    print("❌ ERROR: Could not connect to MongoDB. Ensure 'mongodb' container is running.", file=sys.stderr)
+    sys.exit(1)
 
-# --- HELPER: SIMULATION DATA ---
-def enrich_article(article):
-    """Adds simulated BI fields: Quartile, Citations, Keywords"""
-    quartiles = ["Q1", "Q2", "Q3", "Q4"]
-    # Expanded keyword list for better Word Cloud
-    keywords = ["Blockchain", "Security", "IoT", "Smart Contracts", "Privacy", 
-                "Consensus", "AI", "Cloud", "Big Data", "Crypto", "Hyperledger", 
-                "Ethereum", "Supply Chain", "Healthcare", "FinTech"]
+# --- HELPER: BUILD FILTERS (SLICE & DICE) ---
+def build_match_stage():
+    """
+    Reads query parameters (year, country, quartile) and builds a MongoDB query.
+    Example: /api/kpi/summary?year=2021&country=France
+    """
+    query = {}
     
-    title = article.get("title", "")
-    
-    # FIX: Use a hash of the title string, not length.
-    # This creates a unique integer seed for every unique title.
-    hash_object = hashlib.md5(title.encode())
-    seed_int = int(hash_object.hexdigest(), 16)
-    random.seed(seed_int)
-    
-    return {
-        # Weighted choice: Make Q1/Q2 slightly rarer for realism
-        "quartile": random.choices(quartiles, weights=[20, 30, 30, 20], k=1)[0],
-        "citations": random.randint(0, 150),
-        "keyword": random.choice(keywords)
-    }
-
-@app.route('/api/stats/years', methods=['GET'])
-def get_year_stats():
-    # (Same logic as before - aggregating by year)
-    pipeline = [
-        {"$match": {"date_pub": {"$ne": "Unknown"}}},
-        {"$group": {"_id": "$date_pub", "count": {"$sum": 1}}},
-        {"$sort": {"_id": 1}}
-    ]
-    data = list(collection.aggregate(pipeline))
-    formatted = [{"year": item["_id"], "count": item["count"]} for item in data]
-    return jsonify(formatted)
-
-@app.route('/api/stats/countries', methods=['GET'])
-def get_country_stats():
-    # (Same simulation logic as before)
-    countries = ["USA", "China", "India", "UK", "France", "Germany", "Canada", "Australia", "Japan", "Morocco", "Brazil", "Italy", "South Korea", "Singapore", "Spain", "Russia"]
-    weights = [18, 18, 12, 8, 6, 6, 4, 4, 4, 3, 3, 2, 3, 2, 2, 2]
-    
-    total = collection.count_documents({})
-    counts = {c: 0 for c in countries}
-    
-    random.seed(42) # Fixed seed for consistency
-    for _ in range(total):
-        c = random.choices(countries, weights=weights, k=1)[0]
-        counts[c] += 1
+    # Filter by Year
+    year = request.args.get('year')
+    if year and year != 'All':
+        query['date_pub'] = year
         
-    formatted = [{"country": k, "count": v} for k, v in counts.items() if v > 0]
-    formatted.sort(key=lambda x: x['count'], reverse=True)
-    return jsonify(formatted)
+    # Filter by Country
+    country = request.args.get('country')
+    if country and country != 'All':
+        query['country'] = country
 
-@app.route('/api/stats/quartiles', methods=['GET'])
-def get_quartile_stats():
-    """Returns distribution of articles by Quartile (Q1, Q2, Q3, Q4)"""
-    articles = list(collection.find({}, {"title": 1}))
-    quartile_counts = {"Q1": 0, "Q2": 0, "Q3": 0, "Q4": 0}
-    
-    for art in articles:
-        data = enrich_article(art)
-        quartile_counts[data["quartile"]] += 1
-        
-    formatted = [{"category": k, "value": v} for k, v in quartile_counts.items()]
-    return jsonify(formatted)
+    # Filter by Quartile
+    quartile = request.args.get('quartile')
+    if quartile and quartile != 'All':
+        query['quartile'] = quartile
 
-@app.route('/api/stats/keywords', methods=['GET'])
-def get_keyword_stats():
-    """Returns top keywords for the Word Cloud"""
-    articles = list(collection.find({}, {"title": 1}))
-    keyword_counts = {}
-    
-    for art in articles:
-        data = enrich_article(art)
-        kw = data["keyword"]
-        keyword_counts[kw] = keyword_counts.get(kw, 0) + 1
+    return {"$match": query}
+
+# --- ROUTES ---
+
+@app.route('/api/filters/options', methods=['GET'])
+def get_filter_options():
+    """Returns available years and countries for the frontend dropdowns"""
+    try:
+        years = collection.distinct("date_pub")
+        countries = collection.distinct("country")
+        # Filter out "Unknown" or empty values if necessary
+        years = [y for y in years if y and y != "Unknown"]
+        countries = [c for c in countries if c]
+        return jsonify({"years": sorted(years), "countries": sorted(countries)})
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+@app.route('/api/kpi/summary', methods=['GET'])
+def get_kpi():
+    try:
+        match_stage = build_match_stage()
         
-    formatted = [{"text": k, "value": v} for k, v in keyword_counts.items()]
-    # Sort for better visualization
-    formatted.sort(key=lambda x: x['value'], reverse=True)
-    return jsonify(formatted)
+        pipeline = [
+            match_stage,
+            {
+                "$group": {
+                    "_id": None,
+                    "total_pubs": {"$sum": 1},
+                    "total_citations": {"$sum": "$citations"},
+                    "avg_impact": {"$avg": "$impact_score"},
+                    "total_authors": {"$sum": "$nb_authors"}
+                }
+            }
+        ]
+        data = list(collection.aggregate(pipeline))
+        result = data[0] if data else {"total_pubs": 0, "total_citations": 0, "avg_impact": 0, "total_authors": 0}
+        if "_id" in result: del result["_id"]
+        return jsonify(result)
+
+    except Exception as e:
+        print(f"❌ API ERROR (KPI): {e}", file=sys.stderr)
+        return jsonify({"error": str(e)}), 500
+
+@app.route('/api/olap/time_distribution', methods=['GET'])
+def olap_time():
+    try:
+        match_stage = build_match_stage()
+        pipeline = [
+            match_stage,
+            {"$group": {
+                "_id": "$date_pub", 
+                "count": {"$sum": 1},
+                "avg_impact": {"$avg": "$impact_score"}
+            }},
+            {"$sort": {"_id": 1}}
+        ]
+        data = list(collection.aggregate(pipeline))
+        return jsonify(data)
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+@app.route('/api/olap/geo_distribution', methods=['GET'])
+def olap_geo():
+    try:
+        match_stage = build_match_stage()
+        pipeline = [
+            match_stage,
+            {"$group": {"_id": "$country", "value": {"$sum": 1}}},
+            {"$sort": {"value": -1}}
+        ]
+        data = [{"id": str(item["_id"]), "value": item["value"]} for item in collection.aggregate(pipeline) if item["_id"]]
+        return jsonify(data)
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+@app.route('/api/olap/quality_quartile', methods=['GET'])
+def olap_quartile():
+    try:
+        match_stage = build_match_stage()
+        pipeline = [
+            match_stage,
+            {"$group": {"_id": "$quartile", "count": {"$sum": 1}}}
+        ]
+        data = list(collection.aggregate(pipeline))
+        return jsonify(data)
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+@app.route('/api/olap/keywords', methods=['GET'])
+def olap_keywords():
+    try:
+        match_stage = build_match_stage()
+        pipeline = [
+            match_stage,
+            {"$unwind": "$generated_keywords"},
+            {"$group": {"_id": "$generated_keywords", "weight": {"$sum": 1}}},
+            {"$sort": {"weight": -1}},
+            {"$limit": 50}
+        ]
+        data = [{"text": str(item["_id"]), "weight": item["weight"]} for item in collection.aggregate(pipeline)]
+        return jsonify(data)
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+# --- NEW: CO-AUTHOR NETWORK GRAPH ---
+@app.route('/api/olap/network', methods=['GET'])
+def olap_network():
+    """
+    Generates Nodes and Links for a Force-Directed Graph.
+    Limits processing to top 50 recent papers to prevent crashing.
+    """
+    try:
+        match_stage = build_match_stage()
+        
+        # Fetch authors from papers
+        pipeline = [
+            match_stage,
+            {"$project": {"authors_clean": 1}},
+            {"$limit": 50} # Limit for performance
+        ]
+        
+        papers = list(collection.aggregate(pipeline))
+        
+        nodes = {}
+        links = []
+        
+        for paper in papers:
+            authors = paper.get("authors_clean", [])
+            # Clean author names (remove newlines if any remain)
+            authors = [a.strip().replace("\n", "") for a in authors if a and a != "Unknown"]
+            
+            # Add Nodes
+            for author in authors:
+                if author not in nodes:
+                    nodes[author] = {"id": author, "weight": 1}
+                else:
+                    nodes[author]["weight"] += 1
+            
+            # Add Links (Pairs)
+            if len(authors) > 1:
+                # Generate all unique pairs in this paper
+                for a1, a2 in itertools.combinations(authors, 2):
+                    # Sort to ensure A->B is same as B->A
+                    pair = sorted([a1, a2])
+                    links.append({"source": pair[0], "target": pair[1]})
+
+        # Format for amCharts/D3
+        node_list = [{"id": k, "value": v["weight"]} for k, v in nodes.items()]
+        
+        # Deduplicate links (count strength)
+        link_counts = {}
+        for link in links:
+            key = f"{link['source']}|{link['target']}"
+            if key in link_counts:
+                link_counts[key]["value"] += 1
+            else:
+                link_counts[key] = {"source": link['source'], "target": link['target'], "value": 1}
+                
+        link_list = list(link_counts.values())
+
+        return jsonify({"nodes": node_list, "links": link_list})
+
+    except Exception as e:
+        print(f"❌ API ERROR (Network): {e}", file=sys.stderr)
+        return jsonify({"error": str(e)}), 500
+
+# --- NEW: TOP AUTHORS (Replaces Universities) ---
+@app.route('/api/olap/authors', methods=['GET'])
+def olap_authors():
+    try:
+        match_stage = build_match_stage()
+        pipeline = [
+            match_stage,
+            {"$unwind": "$authors_clean"},
+            # Clean newline characters if Spark didn't catch all
+            {"$project": {"author": {"$trim": {"input": "$authors_clean", "chars": "\n "}}}},
+            {"$match": {"author": {"$ne": "Unknown"}}},
+            {"$group": {"_id": "$author", "count": {"$sum": 1}}},
+            {"$sort": {"count": -1}},
+            {"$limit": 20}
+        ]
+        data = list(collection.aggregate(pipeline))
+        return jsonify(data)
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000)
+    print("✅ Flask Server Running on port 5000...")
+    app.run(host='0.0.0.0', port=5000, debug=True)

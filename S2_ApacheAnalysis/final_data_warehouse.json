@@ -1,0 +1,3119 @@
+[
+    {
+        "abstract_": "N/A",
+        "date_pub": "2019",
+        "journal": "IEEE",
+        "source": "IEEE Xplore",
+        "title": "ArtChain: Blockchain-Enabled Platform for Art Marketplace",
+        "authors_clean": [
+            "Ziyuan Wang",
+            "\nLin Yang",
+            "\nQin Wang",
+            "\nDonghai Liu",
+            "\nZhiyu Xu",
+            "\nShigang Liu"
+        ],
+        "nb_authors": 6,
+        "quartile": "Q1",
+        "country": "France",
+        "impact_score": 10.37,
+        "citations": 103,
+        "generated_keywords": [
+            "Artchain:",
+            "Blockchain",
+            "Enabled",
+            "Platform",
+            "Marketplace"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2021",
+        "journal": "IEEE",
+        "source": "IEEE Xplore",
+        "title": "IEEE Draft Standard for Blockchain-based Electronic Contracts",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q4",
+        "country": "UK",
+        "impact_score": 2.6,
+        "citations": 26,
+        "generated_keywords": [
+            "Draft",
+            "Standard",
+            "Blockchain",
+            "Electronic",
+            "Contracts"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2021",
+        "journal": "IEEE",
+        "source": "IEEE Xplore",
+        "title": "IEEE Draft Standard for the Use of Blockchain in Supply Chain Finance",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q2",
+        "country": "India",
+        "impact_score": 2.06,
+        "citations": 20,
+        "generated_keywords": [
+            "Draft",
+            "Standard",
+            "Blockchain",
+            "Supply",
+            "Chain",
+            "Finance"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2021",
+        "journal": "IEEE",
+        "source": "IEEE Xplore",
+        "title": "IEEE Approved Draft Standard for the Use of Blockchain in Supply Chain Finance",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q1",
+        "country": "India",
+        "impact_score": 12.94,
+        "citations": 129,
+        "generated_keywords": [
+            "Approved",
+            "Draft",
+            "Standard",
+            "Blockchain",
+            "Supply",
+            "Chain",
+            "Finance"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2019",
+        "journal": "IEEE",
+        "source": "IEEE Xplore",
+        "title": "Effective Scheme against 51% Attack on Proof-of-Work Blockchain with History Weighted Information",
+        "authors_clean": [
+            "Xinle Yang",
+            "\nYang Chen",
+            "\nXiaohu Chen"
+        ],
+        "nb_authors": 3,
+        "quartile": "Q3",
+        "country": "India",
+        "impact_score": 2.52,
+        "citations": 25,
+        "generated_keywords": [
+            "Effective",
+            "Scheme",
+            "Against",
+            "Attack",
+            "Proof",
+            "Blockchain",
+            "History",
+            "Weighted",
+            "Information"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2019",
+        "journal": "IEEE",
+        "source": "IEEE Xplore",
+        "title": "A Lightweight Blockchain-Based Privacy Protection for Smart Surveillance at the Edge",
+        "authors_clean": [
+            "Alem Fitwi",
+            "\nYu Chen",
+            "\nSencun Zhu"
+        ],
+        "nb_authors": 3,
+        "quartile": "Q3",
+        "country": "India",
+        "impact_score": 1.62,
+        "citations": 16,
+        "generated_keywords": [
+            "Lightweight",
+            "Blockchain",
+            "Privacy",
+            "Protection",
+            "Smart",
+            "Surveillance"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2019",
+        "journal": "IEEE",
+        "source": "IEEE Xplore",
+        "title": "Performance Analysis of a Hyperledger Fabric Blockchain Framework: Throughput, Latency and Scalability",
+        "authors_clean": [
+            "Murat Kuzlu",
+            "\nManisa Pipattanasomporn",
+            "\nLevent Gurses",
+            "\nSaifur Rahman"
+        ],
+        "nb_authors": 4,
+        "quartile": "Q3",
+        "country": "India",
+        "impact_score": 6.03,
+        "citations": 60,
+        "generated_keywords": [
+            "Performance",
+            "Analysis",
+            "Hyperledger",
+            "Fabric",
+            "Blockchain",
+            "Framework:",
+            "Throughput,",
+            "Latency",
+            "Scalability"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2020",
+        "journal": "IEEE",
+        "source": "IEEE Xplore",
+        "title": "ETH Relay: A Cost-efficient Relay for Ethereum-based Blockchains",
+        "authors_clean": [
+            "Philipp Frauenthaler",
+            "\nMarten Sigwart",
+            "\nChristof Spanring",
+            "\nMichael Sober",
+            "\nStefan Schulte"
+        ],
+        "nb_authors": 5,
+        "quartile": "Q4",
+        "country": "France",
+        "impact_score": 3.43,
+        "citations": 34,
+        "generated_keywords": [
+            "Relay:",
+            "Efficient",
+            "Relay",
+            "Ethereum",
+            "Blockchains"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2019",
+        "journal": "IEEE",
+        "source": "IEEE Xplore",
+        "title": "Air Gapped Wallet Schemes and Private Key Leakage in Permissioned Blockchain Platforms",
+        "authors_clean": [
+            "Amanda Davenport",
+            "\nSachin Shetty"
+        ],
+        "nb_authors": 2,
+        "quartile": "Q4",
+        "country": "China",
+        "impact_score": 9.2,
+        "citations": 92,
+        "generated_keywords": [
+            "Gapped",
+            "Wallet",
+            "Schemes",
+            "Private",
+            "Leakage",
+            "Permissioned",
+            "Blockchain",
+            "Platforms"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2018",
+        "journal": "IEEE",
+        "source": "IEEE Xplore",
+        "title": "Understanding Blockchain Technology: Abstracting the Blockchain",
+        "authors_clean": [
+            "Morgen Peck"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q3",
+        "country": "USA",
+        "impact_score": 10.1,
+        "citations": 101,
+        "generated_keywords": [
+            "Understanding",
+            "Blockchain",
+            "Technology:",
+            "Abstracting",
+            "Blockchain"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2021",
+        "journal": "IEEE",
+        "source": "IEEE Xplore",
+        "title": "Introduction to Blockchain",
+        "authors_clean": [
+            "Akshay Mudgal"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q2",
+        "country": "China",
+        "impact_score": 14.97,
+        "citations": 149,
+        "generated_keywords": [
+            "Introduction",
+            "Blockchain"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2025",
+        "journal": "IEEE",
+        "source": "IEEE Xplore",
+        "title": "Subsidy-Chain: A Secure Blockchain-based Architecture for Subsidy Management and Tracking",
+        "authors_clean": [
+            "K Dyamalli",
+            "\nRupalagudi Likhitha",
+            "\nY Harshitha Reddy",
+            "\nMonica N",
+            "\nArshiya Lubna",
+            "\nAshishika Singh"
+        ],
+        "nb_authors": 6,
+        "quartile": "Q3",
+        "country": "Germany",
+        "impact_score": 6.56,
+        "citations": 65,
+        "generated_keywords": [
+            "Subsidy",
+            "Chain:",
+            "Secure",
+            "Blockchain",
+            "Architecture",
+            "Subsidy",
+            "Management",
+            "Tracking"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2019",
+        "journal": "IEEE",
+        "source": "IEEE Xplore",
+        "title": "Blockchain security architecture: A review technology platform, security strength and weakness",
+        "authors_clean": [
+            "Latifa Al-Abbasi",
+            "\nWael El-Medany"
+        ],
+        "nb_authors": 2,
+        "quartile": "Q4",
+        "country": "Germany",
+        "impact_score": 1.51,
+        "citations": 15,
+        "generated_keywords": [
+            "Blockchain",
+            "Security",
+            "Architecture:",
+            "Review",
+            "Technology",
+            "Platform,",
+            "Security",
+            "Strength",
+            "Weakness"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2018",
+        "journal": "IEEE",
+        "source": "IEEE Xplore",
+        "title": "A High Performance Blockchain Platform for Intelligent Devices",
+        "authors_clean": [
+            "Shitang Yu",
+            "\nKun Lv",
+            "\nZhou Shao",
+            "\nYingcheng Guo",
+            "\nJun Zou",
+            "\nBo Zhang"
+        ],
+        "nb_authors": 6,
+        "quartile": "Q2",
+        "country": "China",
+        "impact_score": 12.53,
+        "citations": 125,
+        "generated_keywords": [
+            "Performance",
+            "Blockchain",
+            "Platform",
+            "Intelligent",
+            "Devices"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2021",
+        "journal": "IEEE",
+        "source": "IEEE Xplore",
+        "title": "IEEE Draft Standard for Application Technical Specification of Blockchain-based E-Commerce Transaction Evidence Collecting",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q3",
+        "country": "China",
+        "impact_score": 4.94,
+        "citations": 49,
+        "generated_keywords": [
+            "Draft",
+            "Standard",
+            "Application",
+            "Technical",
+            "Specification",
+            "Blockchain",
+            "Commerce",
+            "Transaction",
+            "Evidence",
+            "Collecting"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2021",
+        "journal": "IEEE",
+        "source": "IEEE Xplore",
+        "title": "IEEE Approved Draft Standard for Application Technical Specification of Blockchain-based E-Commerce Transaction Evidence Collecting",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q3",
+        "country": "Canada",
+        "impact_score": 9.38,
+        "citations": 93,
+        "generated_keywords": [
+            "Approved",
+            "Draft",
+            "Standard",
+            "Application",
+            "Technical",
+            "Specification",
+            "Blockchain",
+            "Commerce",
+            "Transaction",
+            "Evidence",
+            "Collecting"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2022",
+        "journal": "IEEE",
+        "source": "IEEE Xplore",
+        "title": "Research and Design of Electric Power Engineering Project Management System Bsed on Blockchain Technology",
+        "authors_clean": [
+            "Qinglei Guo",
+            "\nShuai Chen",
+            "\nJunsheng Wang",
+            "\nXiaoting Pan"
+        ],
+        "nb_authors": 4,
+        "quartile": "Q2",
+        "country": "USA",
+        "impact_score": 9.99,
+        "citations": 99,
+        "generated_keywords": [
+            "Research",
+            "Design",
+            "Electric",
+            "Power",
+            "Engineering",
+            "Project",
+            "Management",
+            "System",
+            "Blockchain",
+            "Technology"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2025",
+        "journal": "IEEE",
+        "source": "IEEE Xplore",
+        "title": "Routing Cross-Blockchain Communication",
+        "authors_clean": [
+            "Max Kobelt",
+            "\nMichael Sober",
+            "\nStefan Schulte",
+            "\nLeandro Rometsch"
+        ],
+        "nb_authors": 4,
+        "quartile": "Q2",
+        "country": "USA",
+        "impact_score": 10.25,
+        "citations": 102,
+        "generated_keywords": [
+            "Routing",
+            "Cross",
+            "Blockchain",
+            "Communication"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2022",
+        "journal": "IEEE",
+        "source": "IEEE Xplore",
+        "title": "Research and Implementation on the Operation and Transaction System Based on Blockchain Technology for Virtual Power Plant",
+        "authors_clean": [
+            "Da Li",
+            "\nQinglei Guo",
+            "\nDesheng Bai",
+            "\nWei Zhang"
+        ],
+        "nb_authors": 4,
+        "quartile": "Q4",
+        "country": "USA",
+        "impact_score": 8.49,
+        "citations": 84,
+        "generated_keywords": [
+            "Research",
+            "Implementation",
+            "Operation",
+            "Transaction",
+            "System",
+            "Blockchain",
+            "Technology",
+            "Virtual",
+            "Power",
+            "Plant"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2021",
+        "journal": "IEEE",
+        "source": "IEEE Xplore",
+        "title": "Blockchain-Based Software Systems: Taxonomy Development",
+        "authors_clean": [
+            "Lamia Alashaikh"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q3",
+        "country": "Morocco",
+        "impact_score": 6.79,
+        "citations": 67,
+        "generated_keywords": [
+            "Blockchain",
+            "Software",
+            "Systems:",
+            "Taxonomy",
+            "Development"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2020",
+        "journal": "IEEE",
+        "source": "IEEE Xplore",
+        "title": "Blockchain in Action",
+        "authors_clean": [
+            "Bina Ramamurthy"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q3",
+        "country": "Germany",
+        "impact_score": 7.08,
+        "citations": 70,
+        "generated_keywords": [
+            "Blockchain",
+            "Action"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2019",
+        "journal": "IEEE",
+        "source": "IEEE Xplore",
+        "title": "CoDAG: An Efficient and Compacted DAG-Based Blockchain Protocol",
+        "authors_clean": [
+            "Shu Yang",
+            "\nZiteng Chen",
+            "\nLaizhong Cui",
+            "\nMingwei Xu",
+            "\nZhongxing Ming",
+            "\nKe Xu"
+        ],
+        "nb_authors": 6,
+        "quartile": "Q4",
+        "country": "China",
+        "impact_score": 12.53,
+        "citations": 125,
+        "generated_keywords": [
+            "Codag:",
+            "Efficient",
+            "Compacted",
+            "Blockchain",
+            "Protocol"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2019",
+        "journal": "IEEE",
+        "source": "IEEE Xplore",
+        "title": "Hybrid Blockchain Design for Privacy Preserving Crowdsourcing Platform",
+        "authors_clean": [
+            "Saide Zhu",
+            "\nHuafu Hu",
+            "\nYingshu Li",
+            "\nWei Li"
+        ],
+        "nb_authors": 4,
+        "quartile": "Q3",
+        "country": "Canada",
+        "impact_score": 12.79,
+        "citations": 127,
+        "generated_keywords": [
+            "Hybrid",
+            "Blockchain",
+            "Design",
+            "Privacy",
+            "Preserving",
+            "Crowdsourcing",
+            "Platform"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2021",
+        "journal": "IEEE",
+        "source": "IEEE Xplore",
+        "title": "Performance Analysis of a Hyperledger Iroha Blockchain Framework Used in the UK Livestock Industry",
+        "authors_clean": [
+            "Konstantinos Ntolkeras",
+            "\nHossein Sharif",
+            "\nSoroush Dehghan Salmasi",
+            "\nWilliam Knottenbelt"
+        ],
+        "nb_authors": 4,
+        "quartile": "Q2",
+        "country": "USA",
+        "impact_score": 9.43,
+        "citations": 94,
+        "generated_keywords": [
+            "Performance",
+            "Analysis",
+            "Hyperledger",
+            "Iroha",
+            "Blockchain",
+            "Framework",
+            "Livestock",
+            "Industry"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2023",
+        "journal": "IEEE",
+        "source": "IEEE Xplore",
+        "title": "Security Assessment Model for Blockchain Software and Hardware Fusion Device Based on Decision Tree Algorithm",
+        "authors_clean": [
+            "Ke Yang",
+            "\nShuang Sun",
+            "\nMingyang Lei",
+            "\nWeiyu Wang",
+            "\nXiukui Pan"
+        ],
+        "nb_authors": 5,
+        "quartile": "Q1",
+        "country": "USA",
+        "impact_score": 12.31,
+        "citations": 123,
+        "generated_keywords": [
+            "Security",
+            "Assessment",
+            "Model",
+            "Blockchain",
+            "Software",
+            "Hardware",
+            "Fusion",
+            "Device",
+            "Decision",
+            "Algorithm"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2019",
+        "journal": "IEEE",
+        "source": "IEEE Xplore",
+        "title": "A Reputation Management Framework for Knowledge-Based and Probabilistic Blockchains",
+        "authors_clean": [
+            "Tara Salman",
+            "\nRaj Jain",
+            "\nLav Gupta"
+        ],
+        "nb_authors": 3,
+        "quartile": "Q2",
+        "country": "Morocco",
+        "impact_score": 3.2,
+        "citations": 32,
+        "generated_keywords": [
+            "Reputation",
+            "Management",
+            "Framework",
+            "Knowledge",
+            "Probabilistic",
+            "Blockchains"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2024",
+        "journal": "IEEE",
+        "source": "IEEE Xplore",
+        "title": "Detection of Fake Physical Certificates using a Blockchain-Based Certificate Verification and Issuer Validation System",
+        "authors_clean": [
+            "Ankit K C",
+            "\nDeepesh Bhandari",
+            "\nRojalina Priyadarshini",
+            "\nPramod Kumar Meher"
+        ],
+        "nb_authors": 4,
+        "quartile": "Q1",
+        "country": "China",
+        "impact_score": 12.68,
+        "citations": 126,
+        "generated_keywords": [
+            "Detection",
+            "Physical",
+            "Certificates",
+            "Blockchain",
+            "Certificate",
+            "Verification",
+            "Issuer",
+            "Validation",
+            "System"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2019",
+        "journal": "IEEE",
+        "source": "IEEE Xplore",
+        "title": "Blockchain-Based Charging Coordination Mechanism for Smart Grid Energy Storage Units",
+        "authors_clean": [
+            "Mohamed Baza",
+            "\nMahmoud Nabil",
+            "\nMuhammad Ismail",
+            "\nMohamed Mahmoud",
+            "\nErchin Serpedin",
+            "\nMohammad Ashiqur Rahman"
+        ],
+        "nb_authors": 6,
+        "quartile": "Q4",
+        "country": "USA",
+        "impact_score": 6.76,
+        "citations": 67,
+        "generated_keywords": [
+            "Blockchain",
+            "Charging",
+            "Coordination",
+            "Mechanism",
+            "Smart",
+            "Energy",
+            "Storage",
+            "Units"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2023",
+        "journal": "IEEE",
+        "source": "IEEE Xplore",
+        "title": "Mastering Blockchain: A technical reference guide to the inner workings of blockchain, from cryptography to DeFi and NFTs",
+        "authors_clean": [
+            "Imran Bashir"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q4",
+        "country": "China",
+        "impact_score": 7.09,
+        "citations": 70,
+        "generated_keywords": [
+            "Mastering",
+            "Blockchain:",
+            "Technical",
+            "Reference",
+            "Guide",
+            "Inner",
+            "Workings",
+            "Blockchain,",
+            "Cryptography"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2025",
+        "journal": "IEEE",
+        "source": "IEEE Xplore",
+        "title": "IEEE Guide for an Architectural Framework for Blockchain‐Based Federated Machine Learning",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q2",
+        "country": "USA",
+        "impact_score": 11.8,
+        "citations": 118,
+        "generated_keywords": [
+            "Guide",
+            "Architectural",
+            "Framework",
+            "Blockchain‐based",
+            "Federated",
+            "Machine",
+            "Learning"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2019",
+        "journal": "IEEE",
+        "source": "IEEE Xplore",
+        "title": "ChainSplitter: Towards Blockchain-Based Industrial IoT Architecture for Supporting Hierarchical Storage",
+        "authors_clean": [
+            "Gang Wang",
+            "\nZhijie Shi",
+            "\nMark Nixon",
+            "\nSong Han"
+        ],
+        "nb_authors": 4,
+        "quartile": "Q1",
+        "country": "India",
+        "impact_score": 1.53,
+        "citations": 15,
+        "generated_keywords": [
+            "Chainsplitter:",
+            "Towards",
+            "Blockchain",
+            "Industrial",
+            "Architecture",
+            "Supporting",
+            "Hierarchical",
+            "Storage"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2024",
+        "journal": "IEEE",
+        "source": "IEEE Xplore",
+        "title": "Research on carbon accounting and verification technology for power generation industry based on blockchain",
+        "authors_clean": [
+            "Tingting Wen",
+            "\nZhe Du",
+            "\nQinglei Guo",
+            "\nXiukui Pan"
+        ],
+        "nb_authors": 4,
+        "quartile": "Q2",
+        "country": "Germany",
+        "impact_score": 14.17,
+        "citations": 141,
+        "generated_keywords": [
+            "Research",
+            "Carbon",
+            "Accounting",
+            "Verification",
+            "Technology",
+            "Power",
+            "Generation",
+            "Industry",
+            "Blockchain"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2019",
+        "journal": "IEEE",
+        "source": "IEEE Xplore",
+        "title": "Blockchain Explorer based on RPC-based Monitoring System",
+        "authors_clean": [
+            "Chaehyeon Lee",
+            "\nHeegon Kim",
+            "\nSajan Maharjan",
+            "\nKyungchan Ko",
+            "\nJames Won-Ki Hong"
+        ],
+        "nb_authors": 5,
+        "quartile": "Q1",
+        "country": "Germany",
+        "impact_score": 4.95,
+        "citations": 49,
+        "generated_keywords": [
+            "Blockchain",
+            "Explorer",
+            "Monitoring",
+            "System"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2024",
+        "journal": "IEEE",
+        "source": "IEEE Xplore",
+        "title": "Unlocking the Potential of Blockchain Integration in Secured Framework of Mental Health",
+        "authors_clean": [
+            "Shipra Swati",
+            "\nRitesh K. Mishra",
+            "\nAlok Kumar",
+            "\nRajesh Ingle"
+        ],
+        "nb_authors": 4,
+        "quartile": "Q2",
+        "country": "France",
+        "impact_score": 4.39,
+        "citations": 43,
+        "generated_keywords": [
+            "Unlocking",
+            "Potential",
+            "Blockchain",
+            "Integration",
+            "Secured",
+            "Framework",
+            "Mental",
+            "Health"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2025",
+        "journal": "IEEE",
+        "source": "IEEE Xplore",
+        "title": "Concept of HAOpsSC: Toward Decentralized Operations for Ensuring High Availability in Consortium Blockchain-based Systems",
+        "authors_clean": [
+            "Tatsuya Sato",
+            "\nTaku Shimosawa",
+            "\nNariyoshi Yamai"
+        ],
+        "nb_authors": 3,
+        "quartile": "Q1",
+        "country": "USA",
+        "impact_score": 8.42,
+        "citations": 84,
+        "generated_keywords": [
+            "Concept",
+            "Haopssc:",
+            "Toward",
+            "Decentralized",
+            "Operations",
+            "Ensuring",
+            "Availability",
+            "Consortium",
+            "Blockchain",
+            "Systems"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2019",
+        "journal": "IEEE",
+        "source": "IEEE Xplore",
+        "title": "Toward a Decentralized, Trust-Less Marketplace for Brokered IoT Data Trading Using Blockchain",
+        "authors_clean": [
+            "Shaimaa Bajoudah",
+            "\nChangyu Dong",
+            "\nPaolo Missier"
+        ],
+        "nb_authors": 3,
+        "quartile": "Q1",
+        "country": "UK",
+        "impact_score": 4.57,
+        "citations": 45,
+        "generated_keywords": [
+            "Toward",
+            "Decentralized,",
+            "Trust",
+            "Marketplace",
+            "Brokered",
+            "Trading",
+            "Blockchain"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2019",
+        "journal": "IEEE",
+        "source": "IEEE Xplore",
+        "title": "Scalable Privacy-Preserving Query Processing over Ethereum Blockchain",
+        "authors_clean": [
+            "Shlomi Linoy",
+            "\nHassan Mahdikhani",
+            "\nSuprio Ray",
+            "\nRongxing Lu",
+            "\nNatalia Stakhanova",
+            "\nAli Ghorbani"
+        ],
+        "nb_authors": 6,
+        "quartile": "Q3",
+        "country": "India",
+        "impact_score": 8.43,
+        "citations": 84,
+        "generated_keywords": [
+            "Scalable",
+            "Privacy",
+            "Preserving",
+            "Query",
+            "Processing",
+            "Ethereum",
+            "Blockchain"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2025",
+        "journal": "IEEE",
+        "source": "IEEE Xplore",
+        "title": "Rchain: A Universal and Efficient Redactable Blockchain Scheme",
+        "authors_clean": [
+            "Lingyuan Yin",
+            "\nJianfeng Shi",
+            "\nBin Xie",
+            "\nYang Liu"
+        ],
+        "nb_authors": 4,
+        "quartile": "Q4",
+        "country": "France",
+        "impact_score": 8.08,
+        "citations": 80,
+        "generated_keywords": [
+            "Rchain:",
+            "Universal",
+            "Efficient",
+            "Redactable",
+            "Blockchain",
+            "Scheme"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2025",
+        "journal": "IEEE",
+        "source": "IEEE Xplore",
+        "title": "Blockchain Data Index Method Based on Improved Red-black Tree",
+        "authors_clean": [
+            "Ao Xiong",
+            "\nWenchuan Ma",
+            "\nYu Song",
+            "\nDong Wang",
+            "\nDa Li",
+            "\nGaoming Jin",
+            "\nYezhang Cao"
+        ],
+        "nb_authors": 7,
+        "quartile": "Q4",
+        "country": "China",
+        "impact_score": 4.44,
+        "citations": 44,
+        "generated_keywords": [
+            "Blockchain",
+            "Index",
+            "Method",
+            "Improved",
+            "Black"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2025",
+        "journal": "IEEE",
+        "source": "IEEE Xplore",
+        "title": "BrokerChain: A Blockchain Sharding Protocol by Exploiting Broker Accounts",
+        "authors_clean": [
+            "Huawei Huang",
+            "\nZhaokang Yin",
+            "\nQinde Chen",
+            "\nJian Zheng",
+            "\nXiaofei Luo",
+            "\nGuang Ye",
+            "\nXiaowen Peng",
+            "\nZibin Zheng",
+            "\nSong Guo"
+        ],
+        "nb_authors": 9,
+        "quartile": "Q4",
+        "country": "UK",
+        "impact_score": 6.45,
+        "citations": 64,
+        "generated_keywords": [
+            "Brokerchain:",
+            "Blockchain",
+            "Sharding",
+            "Protocol",
+            "Exploiting",
+            "Broker",
+            "Accounts"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2021",
+        "journal": "IEEE",
+        "source": "IEEE Xplore",
+        "title": "Containerchain: A Blockchain System Emulator based on Mininet and Containers",
+        "authors_clean": [
+            "Saul Gill",
+            "\nBrian Lee",
+            "\nYuansong Qiao"
+        ],
+        "nb_authors": 3,
+        "quartile": "Q3",
+        "country": "USA",
+        "impact_score": 12.19,
+        "citations": 121,
+        "generated_keywords": [
+            "Containerchain:",
+            "Blockchain",
+            "System",
+            "Emulator",
+            "Mininet",
+            "Containers"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2021",
+        "journal": "IEEE",
+        "source": "IEEE Xplore",
+        "title": "A Voting-Based Blockchain Interoperability Oracle",
+        "authors_clean": [
+            "Michael Sober",
+            "\nGiulia Scaffino",
+            "\nChristof Spanring",
+            "\nStefan Schulte"
+        ],
+        "nb_authors": 4,
+        "quartile": "Q2",
+        "country": "China",
+        "impact_score": 9.06,
+        "citations": 90,
+        "generated_keywords": [
+            "Voting",
+            "Blockchain",
+            "Interoperability",
+            "Oracle"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2022",
+        "journal": "IEEE",
+        "source": "IEEE Xplore",
+        "title": "A Blockchain-based Customizable Document Registration Service for Third Parties",
+        "authors_clean": [
+            "Pamella Soares",
+            "\nRaphael Saraiva",
+            "\nIago Fernandes",
+            "\nAntônio Neto",
+            "\nJerffeson Souza"
+        ],
+        "nb_authors": 5,
+        "quartile": "Q1",
+        "country": "France",
+        "impact_score": 3.15,
+        "citations": 31,
+        "generated_keywords": [
+            "Blockchain",
+            "Customizable",
+            "Document",
+            "Registration",
+            "Service",
+            "Third",
+            "Parties"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2022",
+        "journal": "IEEE",
+        "source": "IEEE Xplore",
+        "title": "A Survey on Safety Regulation Technology of Blockchain Application and Blockchain Ecology",
+        "authors_clean": [
+            "Pengxu Shen",
+            "\nSuozai Li",
+            "\nMing Huang",
+            "\nHaoyu Gao",
+            "\nLeixiao Li",
+            "\nJun Li",
+            "\nHong Lei"
+        ],
+        "nb_authors": 7,
+        "quartile": "Q1",
+        "country": "Germany",
+        "impact_score": 1.91,
+        "citations": 19,
+        "generated_keywords": [
+            "Survey",
+            "Safety",
+            "Regulation",
+            "Technology",
+            "Blockchain",
+            "Application",
+            "Blockchain",
+            "Ecology"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2021",
+        "journal": "IEEE",
+        "source": "IEEE Xplore",
+        "title": "Blockchain-based Electronic Evidence Storage and Efficiency Optimization",
+        "authors_clean": [
+            "Zhikun Miao",
+            "\nChengxu Ye",
+            "\nPing Yang",
+            "\nYing Chen",
+            "\nYutao Chen"
+        ],
+        "nb_authors": 5,
+        "quartile": "Q3",
+        "country": "France",
+        "impact_score": 14.68,
+        "citations": 146,
+        "generated_keywords": [
+            "Blockchain",
+            "Electronic",
+            "Evidence",
+            "Storage",
+            "Efficiency",
+            "Optimization"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2024",
+        "journal": "IEEE",
+        "source": "IEEE Xplore",
+        "title": "Blockchain based Digital Multimedia Content Authentication System: using IPFS and Ethereum",
+        "authors_clean": [
+            "Anurag Pandey",
+            "\nJayanti Rout",
+            "\nAshutosh Soni",
+            "\nSurendra Kumar Nanda"
+        ],
+        "nb_authors": 4,
+        "quartile": "Q3",
+        "country": "Morocco",
+        "impact_score": 4.99,
+        "citations": 49,
+        "generated_keywords": [
+            "Blockchain",
+            "Digital",
+            "Multimedia",
+            "Content",
+            "Authentication",
+            "System:",
+            "Ethereum"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2021",
+        "journal": "IEEE",
+        "source": "IEEE Xplore",
+        "title": "Research on Digital Finance Based on Blockchain Technology",
+        "authors_clean": [
+            "Yuhan Zhu"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q1",
+        "country": "China",
+        "impact_score": 2.46,
+        "citations": 24,
+        "generated_keywords": [
+            "Research",
+            "Digital",
+            "Finance",
+            "Blockchain",
+            "Technology"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2023",
+        "journal": "IEEE",
+        "source": "IEEE Xplore",
+        "title": "An Evaluation Framework for Assessing IPFS Performance within a Blockchain-Based Healthcare System",
+        "authors_clean": [
+            "Ghassan Al-Sumaidaee",
+            "\nRami Alkhudary",
+            "\nZeljko Zilic",
+            "\nAndraws Swidan"
+        ],
+        "nb_authors": 4,
+        "quartile": "Q4",
+        "country": "Canada",
+        "impact_score": 12.78,
+        "citations": 127,
+        "generated_keywords": [
+            "Evaluation",
+            "Framework",
+            "Assessing",
+            "Performance",
+            "Within",
+            "Blockchain",
+            "Healthcare",
+            "System"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2020",
+        "journal": "IEEE",
+        "source": "IEEE Xplore",
+        "title": "Design and Application of Product Traceability Blockchain-based Platform",
+        "authors_clean": [
+            "Yu Zhang",
+            "\nMenglu Jin",
+            "\nGuiping Zheng",
+            "\nHu Li"
+        ],
+        "nb_authors": 4,
+        "quartile": "Q2",
+        "country": "USA",
+        "impact_score": 5.61,
+        "citations": 56,
+        "generated_keywords": [
+            "Design",
+            "Application",
+            "Product",
+            "Traceability",
+            "Blockchain",
+            "Platform"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2024",
+        "journal": "ScienceDirect Journal",
+        "source": "ScienceDirect",
+        "title": "2024 Chinese guideline on the construction and application of medical blockchain",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q2",
+        "country": "India",
+        "impact_score": 11.74,
+        "citations": 117,
+        "generated_keywords": [
+            "Chinese",
+            "Guideline",
+            "Construction",
+            "Application",
+            "Medical",
+            "Blockchain"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2025",
+        "journal": "ScienceDirect Journal",
+        "source": "ScienceDirect",
+        "title": "Combating 3PCCL Greenwashing with the Blockchain Technology under Government Enforcement",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q3",
+        "country": "USA",
+        "impact_score": 12.43,
+        "citations": 124,
+        "generated_keywords": [
+            "Combating",
+            "3pccl",
+            "Greenwashing",
+            "Blockchain",
+            "Technology",
+            "Under",
+            "Government",
+            "Enforcement"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2026",
+        "journal": "ScienceDirect Journal",
+        "source": "ScienceDirect",
+        "title": "Restoring consumer trust in e-commerce: The role of blockchain technology and its behavioral implications",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q3",
+        "country": "France",
+        "impact_score": 13.62,
+        "citations": 136,
+        "generated_keywords": [
+            "Restoring",
+            "Consumer",
+            "Trust",
+            "Commerce:",
+            "Blockchain",
+            "Technology",
+            "Behavioral",
+            "Implications"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2026",
+        "journal": "ScienceDirect Journal",
+        "source": "ScienceDirect",
+        "title": "Leveraging blockchain technology and process innovation for green supply chain performance in environmentally sensitive industries",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q3",
+        "country": "France",
+        "impact_score": 5.77,
+        "citations": 57,
+        "generated_keywords": [
+            "Leveraging",
+            "Blockchain",
+            "Technology",
+            "Process",
+            "Innovation",
+            "Green",
+            "Supply",
+            "Chain",
+            "Performance",
+            "Environmentally",
+            "Sensitive",
+            "Industries"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2025",
+        "journal": "ScienceDirect Journal",
+        "source": "ScienceDirect",
+        "title": "Harnessing the Synergy of Artificial Intelligence and Blockchain Technology in Smart Buildings for Enhanced Efficiency and Security",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q4",
+        "country": "China",
+        "impact_score": 6.73,
+        "citations": 67,
+        "generated_keywords": [
+            "Harnessing",
+            "Synergy",
+            "Artificial",
+            "Intelligence",
+            "Blockchain",
+            "Technology",
+            "Smart",
+            "Buildings",
+            "Enhanced",
+            "Efficiency",
+            "Security"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2026",
+        "journal": "ScienceDirect Journal",
+        "source": "ScienceDirect",
+        "title": "Blockchain-based network-constrained peer-to-peer energy trading in a reconfigurable distribution network",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q2",
+        "country": "China",
+        "impact_score": 12.31,
+        "citations": 123,
+        "generated_keywords": [
+            "Blockchain",
+            "Network",
+            "Constrained",
+            "Energy",
+            "Trading",
+            "Reconfigurable",
+            "Distribution",
+            "Network"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2026",
+        "journal": "ScienceDirect Journal",
+        "source": "ScienceDirect",
+        "title": "Supply chain structure and blockchain deployment strategies in competing supply chains",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q2",
+        "country": "USA",
+        "impact_score": 8.24,
+        "citations": 82,
+        "generated_keywords": [
+            "Supply",
+            "Chain",
+            "Structure",
+            "Blockchain",
+            "Deployment",
+            "Strategies",
+            "Competing",
+            "Supply",
+            "Chains"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2025",
+        "journal": "ScienceDirect Journal",
+        "source": "ScienceDirect",
+        "title": "Mediation effects in blockchain technology adoption for social sustainability: Pre- and post-adoption analysis of existing and future socially sustainable supply chains",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q2",
+        "country": "India",
+        "impact_score": 12.29,
+        "citations": 122,
+        "generated_keywords": [
+            "Mediation",
+            "Effects",
+            "Blockchain",
+            "Technology",
+            "Adoption",
+            "Social",
+            "Sustainability:",
+            "Adoption",
+            "Analysis",
+            "Existing",
+            "Future",
+            "Socially",
+            "Sustainable",
+            "Supply",
+            "Chains"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2026",
+        "journal": "ScienceDirect Journal",
+        "source": "ScienceDirect",
+        "title": "Blockchain adoption for promoting carbon emission reduction in relation to social comparison and competition",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q2",
+        "country": "India",
+        "impact_score": 0.51,
+        "citations": 5,
+        "generated_keywords": [
+            "Blockchain",
+            "Adoption",
+            "Promoting",
+            "Carbon",
+            "Emission",
+            "Reduction",
+            "Relation",
+            "Social",
+            "Comparison",
+            "Competition"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2025",
+        "journal": "ScienceDirect Journal",
+        "source": "ScienceDirect",
+        "title": "Secrets on the Chain: Cryptographic Blockchain Patterns for Verifiable and Confidential Data Handling",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q4",
+        "country": "USA",
+        "impact_score": 6.4,
+        "citations": 64,
+        "generated_keywords": [
+            "Secrets",
+            "Chain:",
+            "Cryptographic",
+            "Blockchain",
+            "Patterns",
+            "Verifiable",
+            "Confidential",
+            "Handling"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2025",
+        "journal": "ScienceDirect Journal",
+        "source": "ScienceDirect",
+        "title": "Exploring the intersection of blockchain and e-health: A bibliometric analysis of recent research",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q3",
+        "country": "USA",
+        "impact_score": 10.69,
+        "citations": 106,
+        "generated_keywords": [
+            "Exploring",
+            "Intersection",
+            "Blockchain",
+            "Health:",
+            "Bibliometric",
+            "Analysis",
+            "Recent",
+            "Research"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2026",
+        "journal": "ScienceDirect Journal",
+        "source": "ScienceDirect",
+        "title": "Blockchain investment, FinTech, and employee innovation",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q3",
+        "country": "USA",
+        "impact_score": 13.56,
+        "citations": 135,
+        "generated_keywords": [
+            "Blockchain",
+            "Investment,",
+            "Fintech,",
+            "Employee",
+            "Innovation"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2026",
+        "journal": "ScienceDirect Journal",
+        "source": "ScienceDirect",
+        "title": "Blockchain, financial incentives, and regenerative tourism",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q2",
+        "country": "France",
+        "impact_score": 5.86,
+        "citations": 58,
+        "generated_keywords": [
+            "Blockchain,",
+            "Financial",
+            "Incentives,",
+            "Regenerative",
+            "Tourism"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2026",
+        "journal": "ScienceDirect Journal",
+        "source": "ScienceDirect",
+        "title": "Duopolistic blockchain adoption strategies with risky green R&D",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q1",
+        "country": "China",
+        "impact_score": 1.73,
+        "citations": 17,
+        "generated_keywords": [
+            "Duopolistic",
+            "Blockchain",
+            "Adoption",
+            "Strategies",
+            "Risky",
+            "Green"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2026",
+        "journal": "ScienceDirect Journal",
+        "source": "ScienceDirect",
+        "title": "Privacy-preserving electricity trading matching based on blockchain in smart grid",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q1",
+        "country": "India",
+        "impact_score": 7.93,
+        "citations": 79,
+        "generated_keywords": [
+            "Privacy",
+            "Preserving",
+            "Electricity",
+            "Trading",
+            "Matching",
+            "Blockchain",
+            "Smart"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2026",
+        "journal": "ScienceDirect Journal",
+        "source": "ScienceDirect",
+        "title": "Assessing blockchain technology's technical utility in construction supply chains: A multi-KPI decision support approach via use cases",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q3",
+        "country": "USA",
+        "impact_score": 5.09,
+        "citations": 50,
+        "generated_keywords": [
+            "Assessing",
+            "Blockchain",
+            "Technology's",
+            "Technical",
+            "Utility",
+            "Construction",
+            "Supply",
+            "Chains:",
+            "Multi",
+            "Decision",
+            "Support",
+            "Cases"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2025",
+        "journal": "ScienceDirect Journal",
+        "source": "ScienceDirect",
+        "title": "Impacts of blockchain on recycling strategy in the presence of retailing platform under extended producer responsibility",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q4",
+        "country": "India",
+        "impact_score": 7.67,
+        "citations": 76,
+        "generated_keywords": [
+            "Impacts",
+            "Blockchain",
+            "Recycling",
+            "Strategy",
+            "Presence",
+            "Retailing",
+            "Platform",
+            "Under",
+            "Extended",
+            "Producer",
+            "Responsibility"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2025",
+        "journal": "ScienceDirect Journal",
+        "source": "ScienceDirect",
+        "title": "Blockchain applications and the relational normativity of international space law",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q3",
+        "country": "USA",
+        "impact_score": 10.64,
+        "citations": 106,
+        "generated_keywords": [
+            "Blockchain",
+            "Applications",
+            "Relational",
+            "Normativity",
+            "International",
+            "Space"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2025",
+        "journal": "ScienceDirect Journal",
+        "source": "ScienceDirect",
+        "title": "Risk management of transaction security using blockchain technology in the international logistics industry",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q1",
+        "country": "China",
+        "impact_score": 11.64,
+        "citations": 116,
+        "generated_keywords": [
+            "Management",
+            "Transaction",
+            "Security",
+            "Blockchain",
+            "Technology",
+            "International",
+            "Logistics",
+            "Industry"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2025",
+        "journal": "ScienceDirect Journal",
+        "source": "ScienceDirect",
+        "title": "Application of Blockchain-based Digital Twin Technology in Healthcare: A Scoping Review",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q4",
+        "country": "China",
+        "impact_score": 11.46,
+        "citations": 114,
+        "generated_keywords": [
+            "Application",
+            "Blockchain",
+            "Digital",
+            "Technology",
+            "Healthcare:",
+            "Scoping",
+            "Review"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2026",
+        "journal": "ScienceDirect Journal",
+        "source": "ScienceDirect",
+        "title": "Anomaly detection for blockchain nodes based on eBPF and fine-tuning large language model",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q3",
+        "country": "USA",
+        "impact_score": 8.0,
+        "citations": 80,
+        "generated_keywords": [
+            "Anomaly",
+            "Detection",
+            "Blockchain",
+            "Nodes",
+            "Tuning",
+            "Large",
+            "Language",
+            "Model"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2026",
+        "journal": "ScienceDirect Journal",
+        "source": "ScienceDirect",
+        "title": "Blockchain implementation in municipal solid waste circular supply chain: A stakeholder’s analysis",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q2",
+        "country": "USA",
+        "impact_score": 13.89,
+        "citations": 138,
+        "generated_keywords": [
+            "Blockchain",
+            "Implementation",
+            "Municipal",
+            "Solid",
+            "Waste",
+            "Circular",
+            "Supply",
+            "Chain:",
+            "Stakeholder’s",
+            "Analysis"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2025",
+        "journal": "ScienceDirect Journal",
+        "source": "ScienceDirect",
+        "title": "Blockchain affordances in digital health: a systematic review and research agenda for personalized health-care",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q3",
+        "country": "UK",
+        "impact_score": 7.62,
+        "citations": 76,
+        "generated_keywords": [
+            "Blockchain",
+            "Affordances",
+            "Digital",
+            "Health:",
+            "Systematic",
+            "Review",
+            "Research",
+            "Agenda",
+            "Personalized",
+            "Health"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2025",
+        "journal": "ScienceDirect Journal",
+        "source": "ScienceDirect",
+        "title": "Blockchain technology investment, corporate financial value innovation, and brand loyalty",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q4",
+        "country": "Canada",
+        "impact_score": 13.68,
+        "citations": 136,
+        "generated_keywords": [
+            "Blockchain",
+            "Technology",
+            "Investment,",
+            "Corporate",
+            "Financial",
+            "Value",
+            "Innovation,",
+            "Brand",
+            "Loyalty"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2025",
+        "journal": "ScienceDirect Journal",
+        "source": "ScienceDirect",
+        "title": "IBFT: An Impartial Byzantine Fault Tolerance Consensus Protocol for Blockchain",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q3",
+        "country": "France",
+        "impact_score": 10.32,
+        "citations": 103,
+        "generated_keywords": [
+            "Ibft:",
+            "Impartial",
+            "Byzantine",
+            "Fault",
+            "Tolerance",
+            "Consensus",
+            "Protocol",
+            "Blockchain"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "Unknown Date",
+        "journal": "ACM",
+        "source": "ACM Digital Library",
+        "title": "",
+        "authors_clean": [
+            ""
+        ],
+        "nb_authors": 1,
+        "quartile": "Q2",
+        "country": "UK",
+        "impact_score": 9.76,
+        "citations": 97,
+        "generated_keywords": []
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2025",
+        "journal": "ACM",
+        "source": "ACM Digital Library",
+        "title": "Review of Barriers to Implement Blockchain Technologies in Logistics",
+        "authors_clean": [
+            "Sinan Cizmecioglu, Ahmet Calik, Esra Boz"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q2",
+        "country": "India",
+        "impact_score": 10.22,
+        "citations": 102,
+        "generated_keywords": [
+            "Review",
+            "Barriers",
+            "Implement",
+            "Blockchain",
+            "Technologies",
+            "Logistics"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2025",
+        "journal": "ACM",
+        "source": "ACM Digital Library",
+        "title": "Blockchain Inception: Scheduling and Caching Optimizations for supporting a PoW Blockchain on the Internet Computer (Industry Track)",
+        "authors_clean": [
+            "Maksym Arutyunyan, Andriy Berestovskyy, Adam Bratschi-Kaye, Dragoljub Đurić, + 4"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q4",
+        "country": "China",
+        "impact_score": 12.34,
+        "citations": 123,
+        "generated_keywords": [
+            "Blockchain",
+            "Inception:",
+            "Scheduling",
+            "Caching",
+            "Optimizations",
+            "Supporting",
+            "Blockchain",
+            "Internet",
+            "Computer",
+            "(industry",
+            "Track)"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2025",
+        "journal": "ACM",
+        "source": "ACM Digital Library",
+        "title": "Blockchain Security and Privacy: Threats, Challenges, Applications, and Tools",
+        "authors_clean": [
+            "Ahod Alghuried, Mohammed Alkinoon, Manar Mohaisen, An Wang, Cliff Zou, + 1"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q1",
+        "country": "China",
+        "impact_score": 6.22,
+        "citations": 62,
+        "generated_keywords": [
+            "Blockchain",
+            "Security",
+            "Privacy:",
+            "Threats,",
+            "Challenges,",
+            "Applications,",
+            "Tools"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2025",
+        "journal": "ACM",
+        "source": "ACM Digital Library",
+        "title": "Machine Learning for Blockchain Data Analysis: Progress and Opportunities",
+        "authors_clean": [
+            "Poupak Azad, Cuneyt Gurcan Akcora, Arijit Khan"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q3",
+        "country": "India",
+        "impact_score": 13.5,
+        "citations": 135,
+        "generated_keywords": [
+            "Machine",
+            "Learning",
+            "Blockchain",
+            "Analysis:",
+            "Progress",
+            "Opportunities"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2025",
+        "journal": "ACM",
+        "source": "ACM Digital Library",
+        "title": "Key Determinants of Blockchain Adoption: A Unified Framework Integrating UTAUT and TOE Models",
+        "authors_clean": [
+            "Kelwin Seen Tiong Tan, Angela Siew Hoong Lee"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q4",
+        "country": "India",
+        "impact_score": 8.75,
+        "citations": 87,
+        "generated_keywords": [
+            "Determinants",
+            "Blockchain",
+            "Adoption:",
+            "Unified",
+            "Framework",
+            "Integrating",
+            "Utaut",
+            "Models"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2025",
+        "journal": "ACM",
+        "source": "ACM Digital Library",
+        "title": "Blockchain-based access control dynamic key authentication protocol in IoT",
+        "authors_clean": [
+            "Xiaoran Zhao, Changgen Peng, Weijie Tan, Hongfa Ding"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q2",
+        "country": "Canada",
+        "impact_score": 9.75,
+        "citations": 97,
+        "generated_keywords": [
+            "Blockchain",
+            "Access",
+            "Control",
+            "Dynamic",
+            "Authentication",
+            "Protocol"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2025",
+        "journal": "ACM",
+        "source": "ACM Digital Library",
+        "title": "Design of Educational Data Management System with Blockchain and High Functional Digital Signatures",
+        "authors_clean": [
+            "Yudai Hata, Kouichi Sakurai"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q4",
+        "country": "India",
+        "impact_score": 5.14,
+        "citations": 51,
+        "generated_keywords": [
+            "Design",
+            "Educational",
+            "Management",
+            "System",
+            "Blockchain",
+            "Functional",
+            "Digital",
+            "Signatures"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2025",
+        "journal": "ACM",
+        "source": "ACM Digital Library",
+        "title": "Exploring Consumer Trust for Blockchain Adoption for Digital Payment Systems in Bhutan",
+        "authors_clean": [
+            "Tenzin Norbu, Joo Yeon Park, Kok Wai Wong, Hui Cui"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q2",
+        "country": "India",
+        "impact_score": 5.52,
+        "citations": 55,
+        "generated_keywords": [
+            "Exploring",
+            "Consumer",
+            "Trust",
+            "Blockchain",
+            "Adoption",
+            "Digital",
+            "Payment",
+            "Systems",
+            "Bhutan"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2025",
+        "journal": "ACM",
+        "source": "ACM Digital Library",
+        "title": "An Approach of Monitoring the Vehicle's Condition Based on Blockchain and Smart Contracts",
+        "authors_clean": [
+            "Stanislav Ivanovich Trofimov, Leonid Sergeevich Voskov, Mikhail Mikhailovich Komarov"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q1",
+        "country": "Morocco",
+        "impact_score": 4.93,
+        "citations": 49,
+        "generated_keywords": [
+            "Monitoring",
+            "Vehicle's",
+            "Condition",
+            "Blockchain",
+            "Smart",
+            "Contracts"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2025",
+        "journal": "ACM",
+        "source": "ACM Digital Library",
+        "title": "Operational Decision-Making in Capital-Constrained Supply Chains with Channel Encroachment and Blockchain Adoption",
+        "authors_clean": [
+            "Manru Li, Zegang Zhang, Silin He"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q2",
+        "country": "India",
+        "impact_score": 3.58,
+        "citations": 35,
+        "generated_keywords": [
+            "Operational",
+            "Decision",
+            "Making",
+            "Capital",
+            "Constrained",
+            "Supply",
+            "Chains",
+            "Channel",
+            "Encroachment",
+            "Blockchain",
+            "Adoption"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2025",
+        "journal": "ACM",
+        "source": "ACM Digital Library",
+        "title": "Calling for Play-Oriented Research on Blockchain Video Games: An Overview Study",
+        "authors_clean": [
+            "Hugh X. Liu, Jussi P. Holopainen"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q1",
+        "country": "Morocco",
+        "impact_score": 7.2,
+        "citations": 72,
+        "generated_keywords": [
+            "Calling",
+            "Oriented",
+            "Research",
+            "Blockchain",
+            "Video",
+            "Games:",
+            "Overview",
+            "Study"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2025",
+        "journal": "ACM",
+        "source": "ACM Digital Library",
+        "title": "A Lightweighted Blockchain Deploying Method in IoT Systems",
+        "authors_clean": [
+            "Ruihan Wang, Qi Wang, Siyao Cheng, Dongbo Li, Jie Liu"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q2",
+        "country": "China",
+        "impact_score": 8.53,
+        "citations": 85,
+        "generated_keywords": [
+            "Lightweighted",
+            "Blockchain",
+            "Deploying",
+            "Method",
+            "Systems"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2025",
+        "journal": "ACM",
+        "source": "ACM Digital Library",
+        "title": "Research into the integration of blockchain technology and full life cycle auditing of PPP projects",
+        "authors_clean": [
+            "Yanru Kong, Jiawu Yue"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q1",
+        "country": "USA",
+        "impact_score": 12.8,
+        "citations": 128,
+        "generated_keywords": [
+            "Research",
+            "Integration",
+            "Blockchain",
+            "Technology",
+            "Cycle",
+            "Auditing",
+            "Projects"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2025",
+        "journal": "ACM",
+        "source": "ACM Digital Library",
+        "title": "Certifichain: Secure QR Codes for Blockchain-Verified Digital Credentials",
+        "authors_clean": [
+            "Yudha Purwanto, Muhammad Faris Ruriawan, Agus Virgono, Hamzah Fatihulhaq, + 5"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q3",
+        "country": "USA",
+        "impact_score": 3.49,
+        "citations": 34,
+        "generated_keywords": [
+            "Certifichain:",
+            "Secure",
+            "Codes",
+            "Blockchain",
+            "Verified",
+            "Digital",
+            "Credentials"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2025",
+        "journal": "ACM",
+        "source": "ACM Digital Library",
+        "title": "Safeguarding Blockchain Ecosystem: Understanding and Detecting Attack Transactions on Cross-chain Bridges",
+        "authors_clean": [
+            "Jiajing Wu, Kaixin Lin, Dan Lin, Bozhao Zhang, Zhiying Wu, Jianzhong Su"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q4",
+        "country": "Germany",
+        "impact_score": 6.28,
+        "citations": 62,
+        "generated_keywords": [
+            "Safeguarding",
+            "Blockchain",
+            "Ecosystem:",
+            "Understanding",
+            "Detecting",
+            "Attack",
+            "Transactions",
+            "Cross",
+            "Chain",
+            "Bridges"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2025",
+        "journal": "ACM",
+        "source": "ACM Digital Library",
+        "title": "TLD-SCA: A Transformer-LSTM Detection Model against Side-Channel Attack in Blockchain Payment Channel",
+        "authors_clean": [
+            "Tao Li, Fei Qiao, Yijia Wang, Kui Lu, Yan Lv, Yilei Wang"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q1",
+        "country": "China",
+        "impact_score": 13.32,
+        "citations": 133,
+        "generated_keywords": [
+            "Transformer",
+            "Detection",
+            "Model",
+            "Against",
+            "Channel",
+            "Attack",
+            "Blockchain",
+            "Payment",
+            "Channel"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2025",
+        "journal": "ACM",
+        "source": "ACM Digital Library",
+        "title": "Enhancing Smart Contract Security on VNT Blockchain with an Advanced Graph Neural Network Approach",
+        "authors_clean": [
+            "Bang Pan, Chenyu Yan, Yunchao Wang, Qiang Wei"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q2",
+        "country": "France",
+        "impact_score": 1.28,
+        "citations": 12,
+        "generated_keywords": [
+            "Enhancing",
+            "Smart",
+            "Contract",
+            "Security",
+            "Blockchain",
+            "Advanced",
+            "Graph",
+            "Neural",
+            "Network"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2025",
+        "journal": "ACM",
+        "source": "ACM Digital Library",
+        "title": "Enhancing Blockchain Scalability using Off-Chain and Machine Learning Techniques",
+        "authors_clean": [
+            "Manjula K. Pawar, Prakashgoud Patil, P. S. Hiremath"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q1",
+        "country": "India",
+        "impact_score": 8.67,
+        "citations": 86,
+        "generated_keywords": [
+            "Enhancing",
+            "Blockchain",
+            "Scalability",
+            "Chain",
+            "Machine",
+            "Learning",
+            "Techniques"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2025",
+        "journal": "ACM",
+        "source": "ACM Digital Library",
+        "title": "SoK: Blockchain Consensus in the Quantum Age",
+        "authors_clean": [
+            "Aleck Nash, Christian Eduardo Terron Garcia, Henry Chimal-Dzul, + 1"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q2",
+        "country": "France",
+        "impact_score": 5.79,
+        "citations": 57,
+        "generated_keywords": [
+            "Blockchain",
+            "Consensus",
+            "Quantum"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2025",
+        "journal": "ACM",
+        "source": "ACM Digital Library",
+        "title": "Blockchain Amplification Attack",
+        "authors_clean": [
+            "Taro Tsuchiya, Liyi Zhou, Kaihua Qin, Arthur Gervais, Nicolas Christin"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q2",
+        "country": "India",
+        "impact_score": 4.24,
+        "citations": 42,
+        "generated_keywords": [
+            "Blockchain",
+            "Amplification",
+            "Attack"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2025",
+        "journal": "ACM",
+        "source": "ACM Digital Library",
+        "title": "Accelerating Verifiable Queries over Blockchain Database System Using Processing-in-memory",
+        "authors_clean": [
+            "Yifan Hua, Shengan Zheng, Weihan Kong, Dongliang Xue, Ke Xi, + 3"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q2",
+        "country": "USA",
+        "impact_score": 11.52,
+        "citations": 115,
+        "generated_keywords": [
+            "Accelerating",
+            "Verifiable",
+            "Queries",
+            "Blockchain",
+            "Database",
+            "System",
+            "Processing",
+            "Memory"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2026",
+        "journal": "ScienceDirect Journal",
+        "source": "ScienceDirect",
+        "title": "Evolutionary game analysis of multi-agent information sharing in blockchain-driven industrial platforms",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q3",
+        "country": "USA",
+        "impact_score": 11.25,
+        "citations": 112,
+        "generated_keywords": [
+            "Evolutionary",
+            "Analysis",
+            "Multi",
+            "Agent",
+            "Information",
+            "Sharing",
+            "Blockchain",
+            "Driven",
+            "Industrial",
+            "Platforms"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2026",
+        "journal": "ScienceDirect Journal",
+        "source": "ScienceDirect",
+        "title": "Blockchain technology, big data evidence, and financial crime",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q2",
+        "country": "USA",
+        "impact_score": 4.26,
+        "citations": 42,
+        "generated_keywords": [
+            "Blockchain",
+            "Technology,",
+            "Evidence,",
+            "Financial",
+            "Crime"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2025",
+        "journal": "ScienceDirect Journal",
+        "source": "ScienceDirect",
+        "title": "Blockchain technology for sustainable supply chains in the fishing industry: A systematic review",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q3",
+        "country": "China",
+        "impact_score": 5.21,
+        "citations": 52,
+        "generated_keywords": [
+            "Blockchain",
+            "Technology",
+            "Sustainable",
+            "Supply",
+            "Chains",
+            "Fishing",
+            "Industry:",
+            "Systematic",
+            "Review"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2026",
+        "journal": "ScienceDirect Journal",
+        "source": "ScienceDirect",
+        "title": "Blockchain technology through a paradox lens: Bridging the gap between promise and reality?",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q4",
+        "country": "India",
+        "impact_score": 13.55,
+        "citations": 135,
+        "generated_keywords": [
+            "Blockchain",
+            "Technology",
+            "Through",
+            "Paradox",
+            "Lens:",
+            "Bridging",
+            "Between",
+            "Promise",
+            "Reality?"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2026",
+        "journal": "ScienceDirect Journal",
+        "source": "ScienceDirect",
+        "title": "BRIDGE: A memory-efficient blockchain-agnostic layer for chain topology representation in heterogeneous architectures",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q4",
+        "country": "USA",
+        "impact_score": 10.79,
+        "citations": 107,
+        "generated_keywords": [
+            "Bridge:",
+            "Memory",
+            "Efficient",
+            "Blockchain",
+            "Agnostic",
+            "Layer",
+            "Chain",
+            "Topology",
+            "Representation",
+            "Heterogeneous",
+            "Architectures"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2026",
+        "journal": "ScienceDirect Journal",
+        "source": "ScienceDirect",
+        "title": "Optimal decision-making and complex analysis in green supply chains considering blockchain and consumer privacy concern",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q3",
+        "country": "China",
+        "impact_score": 3.35,
+        "citations": 33,
+        "generated_keywords": [
+            "Optimal",
+            "Decision",
+            "Making",
+            "Complex",
+            "Analysis",
+            "Green",
+            "Supply",
+            "Chains",
+            "Considering",
+            "Blockchain",
+            "Consumer",
+            "Privacy",
+            "Concern"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2026",
+        "journal": "ScienceDirect Journal",
+        "source": "ScienceDirect",
+        "title": "The impact of retailer’s demand forecast information sharing on platform supply chain efficiency under blockchain technology",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q2",
+        "country": "China",
+        "impact_score": 13.31,
+        "citations": 133,
+        "generated_keywords": [
+            "Impact",
+            "Retailer’s",
+            "Demand",
+            "Forecast",
+            "Information",
+            "Sharing",
+            "Platform",
+            "Supply",
+            "Chain",
+            "Efficiency",
+            "Under",
+            "Blockchain",
+            "Technology"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2026",
+        "journal": "ScienceDirect Journal",
+        "source": "ScienceDirect",
+        "title": "Bank financing or e-commerce platform financing: Green supply chain financing strategies with blockchain integration",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q3",
+        "country": "France",
+        "impact_score": 10.42,
+        "citations": 104,
+        "generated_keywords": [
+            "Financing",
+            "Commerce",
+            "Platform",
+            "Financing:",
+            "Green",
+            "Supply",
+            "Chain",
+            "Financing",
+            "Strategies",
+            "Blockchain",
+            "Integration"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2026",
+        "journal": "ScienceDirect Journal",
+        "source": "ScienceDirect",
+        "title": "Market reaction to blockchain news: The role of digital transformation",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q1",
+        "country": "China",
+        "impact_score": 14.78,
+        "citations": 147,
+        "generated_keywords": [
+            "Market",
+            "Reaction",
+            "Blockchain",
+            "News:",
+            "Digital",
+            "Transformation"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2026",
+        "journal": "ScienceDirect Journal",
+        "source": "ScienceDirect",
+        "title": "Grid connection strategy for photovoltaic power supply chain empowered by blockchain: Partial grid connection or full grid connection?",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q2",
+        "country": "Canada",
+        "impact_score": 7.03,
+        "citations": 70,
+        "generated_keywords": [
+            "Connection",
+            "Strategy",
+            "Photovoltaic",
+            "Power",
+            "Supply",
+            "Chain",
+            "Empowered",
+            "Blockchain:",
+            "Partial",
+            "Connection",
+            "Connection?"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2025",
+        "journal": "ScienceDirect Journal",
+        "source": "ScienceDirect",
+        "title": "Machine Learning and Blockchain Synergy: Opportunities and Challenges for ML Models and Smart Contracts",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q2",
+        "country": "USA",
+        "impact_score": 6.59,
+        "citations": 65,
+        "generated_keywords": [
+            "Machine",
+            "Learning",
+            "Blockchain",
+            "Synergy:",
+            "Opportunities",
+            "Challenges",
+            "Models",
+            "Smart",
+            "Contracts"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2026",
+        "journal": "ScienceDirect Journal",
+        "source": "ScienceDirect",
+        "title": "Retailer blockchain adoption with strategic consumers facing counterfeit entry",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q3",
+        "country": "China",
+        "impact_score": 10.16,
+        "citations": 101,
+        "generated_keywords": [
+            "Retailer",
+            "Blockchain",
+            "Adoption",
+            "Strategic",
+            "Consumers",
+            "Facing",
+            "Counterfeit",
+            "Entry"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2026",
+        "journal": "ScienceDirect Journal",
+        "source": "ScienceDirect",
+        "title": "One for all: A comprehensive graph structure of the account-based blockchain for multi-view analysis",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q3",
+        "country": "Germany",
+        "impact_score": 7.02,
+        "citations": 70,
+        "generated_keywords": [
+            "Comprehensive",
+            "Graph",
+            "Structure",
+            "Account",
+            "Blockchain",
+            "Multi",
+            "Analysis"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2026",
+        "journal": "ScienceDirect Journal",
+        "source": "ScienceDirect",
+        "title": "Can blockchain technology reduce supply chain finance risk? The mediating role of information transparency",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q1",
+        "country": "France",
+        "impact_score": 0.78,
+        "citations": 7,
+        "generated_keywords": [
+            "Blockchain",
+            "Technology",
+            "Reduce",
+            "Supply",
+            "Chain",
+            "Finance",
+            "Risk?",
+            "Mediating",
+            "Information",
+            "Transparency"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2025",
+        "journal": "ScienceDirect Journal",
+        "source": "ScienceDirect",
+        "title": "Analysis of the impact of blockchain on auditing based on future research approach",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q3",
+        "country": "France",
+        "impact_score": 2.99,
+        "citations": 29,
+        "generated_keywords": [
+            "Analysis",
+            "Impact",
+            "Blockchain",
+            "Auditing",
+            "Future",
+            "Research"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2026",
+        "journal": "ScienceDirect Journal",
+        "source": "ScienceDirect",
+        "title": "Navigating the quantum computing threat landscape for blockchains: A comprehensive survey",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q4",
+        "country": "India",
+        "impact_score": 5.5,
+        "citations": 55,
+        "generated_keywords": [
+            "Navigating",
+            "Quantum",
+            "Computing",
+            "Threat",
+            "Landscape",
+            "Blockchains:",
+            "Comprehensive",
+            "Survey"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2026",
+        "journal": "ScienceDirect Journal",
+        "source": "ScienceDirect",
+        "title": "Blockchain traceability valuation for perishable agricultural products: Balancing economic benefit and social impact",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q3",
+        "country": "Canada",
+        "impact_score": 11.73,
+        "citations": 117,
+        "generated_keywords": [
+            "Blockchain",
+            "Traceability",
+            "Valuation",
+            "Perishable",
+            "Agricultural",
+            "Products:",
+            "Balancing",
+            "Economic",
+            "Benefit",
+            "Social",
+            "Impact"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2026",
+        "journal": "ScienceDirect Journal",
+        "source": "ScienceDirect",
+        "title": "From ambiguity to transparency: Blockchain-enabled origin traceability for premium agricultural product",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q1",
+        "country": "India",
+        "impact_score": 2.76,
+        "citations": 27,
+        "generated_keywords": [
+            "Ambiguity",
+            "Transparency:",
+            "Blockchain",
+            "Enabled",
+            "Origin",
+            "Traceability",
+            "Premium",
+            "Agricultural",
+            "Product"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2026",
+        "journal": "ScienceDirect Journal",
+        "source": "ScienceDirect",
+        "title": "Gold or gild: Does blockchain attention improve the efficiency of supply chain?",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q3",
+        "country": "India",
+        "impact_score": 11.77,
+        "citations": 117,
+        "generated_keywords": [
+            "Gild:",
+            "Blockchain",
+            "Attention",
+            "Improve",
+            "Efficiency",
+            "Supply",
+            "Chain?"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2026",
+        "journal": "ScienceDirect Journal",
+        "source": "ScienceDirect",
+        "title": "Combating contamination incidents: the value of blockchain for competing retailers",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q1",
+        "country": "USA",
+        "impact_score": 3.35,
+        "citations": 33,
+        "generated_keywords": [
+            "Combating",
+            "Contamination",
+            "Incidents:",
+            "Value",
+            "Blockchain",
+            "Competing",
+            "Retailers"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2026",
+        "journal": "ScienceDirect Journal",
+        "source": "ScienceDirect",
+        "title": "On scaling LT-coded blockchains in heterogeneous networks and their vulnerabilities to DoS threats",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q3",
+        "country": "USA",
+        "impact_score": 7.34,
+        "citations": 73,
+        "generated_keywords": [
+            "Scaling",
+            "Coded",
+            "Blockchains",
+            "Heterogeneous",
+            "Networks",
+            "Their",
+            "Vulnerabilities",
+            "Threats"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2026",
+        "journal": "ScienceDirect Journal",
+        "source": "ScienceDirect",
+        "title": "Exploring the impact of blockchain technology on supply chain transparency and corporate financing costs",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q1",
+        "country": "China",
+        "impact_score": 2.71,
+        "citations": 27,
+        "generated_keywords": [
+            "Exploring",
+            "Impact",
+            "Blockchain",
+            "Technology",
+            "Supply",
+            "Chain",
+            "Transparency",
+            "Corporate",
+            "Financing",
+            "Costs"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2025",
+        "journal": "ScienceDirect Journal",
+        "source": "ScienceDirect",
+        "title": "Overcoming Dynamic Connectivity in Internet of Vehicles: A DAG Lattice Blockchain with Reputation-Based Incentive",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q2",
+        "country": "UK",
+        "impact_score": 3.28,
+        "citations": 32,
+        "generated_keywords": [
+            "Overcoming",
+            "Dynamic",
+            "Connectivity",
+            "Internet",
+            "Vehicles:",
+            "Lattice",
+            "Blockchain",
+            "Reputation",
+            "Incentive"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2025",
+        "journal": "ScienceDirect Journal",
+        "source": "ScienceDirect",
+        "title": "Building blocks of a Blockchain-enabled framework for the humanitarian supply chain",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q3",
+        "country": "China",
+        "impact_score": 7.97,
+        "citations": 79,
+        "generated_keywords": [
+            "Building",
+            "Blocks",
+            "Blockchain",
+            "Enabled",
+            "Framework",
+            "Humanitarian",
+            "Supply",
+            "Chain"
+        ]
+    },
+    {
+        "abstract_": "N/A",
+        "date_pub": "2025",
+        "journal": "ScienceDirect Journal",
+        "source": "ScienceDirect",
+        "title": "Blockchain technology development, green finance, and urban public transportation service level",
+        "authors_clean": [
+            "Unknown"
+        ],
+        "nb_authors": 1,
+        "quartile": "Q1",
+        "country": "India",
+        "impact_score": 3.45,
+        "citations": 34,
+        "generated_keywords": [
+            "Blockchain",
+            "Technology",
+            "Development,",
+            "Green",
+            "Finance,",
+            "Urban",
+            "Public",
+            "Transportation",
+            "Service",
+            "Level"
+        ]
+    }
+]

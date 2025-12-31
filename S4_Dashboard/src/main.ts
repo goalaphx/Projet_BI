@@ -1,9 +1,11 @@
-// src/main.ts
-
-import 'zone.js';  // <--- ADD THIS LINE AT THE TOP!
 import { bootstrapApplication } from '@angular/platform-browser';
-import { appConfig } from './app/app.config';
-import { App } from './app/app'; // Or './app/app.component' depending on your naming
+import { AppComponent } from './app/app'; // Make sure this path is correct
+import { provideHttpClient } from '@angular/common/http';
+import { provideAnimations } from '@angular/platform-browser/animations';
 
-bootstrapApplication(App, appConfig)
-  .catch((err) => console.error(err));
+bootstrapApplication(AppComponent, {
+  providers: [
+    provideHttpClient(), // FIX: Provides HttpClient for your ApiService
+    provideAnimations()  // FIX: Helps with amCharts animations
+  ]
+}).catch(err => console.error(err));
