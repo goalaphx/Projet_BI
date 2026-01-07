@@ -1,0 +1,2178 @@
+[
+    {
+        "title": "ArtChain: Blockchain-Enabled Platform for Art Marketplace",
+        "authors": "Ziyuan Wang;\nLin Yang;\nQin Wang;\nDonghai Liu;\nZhiyu Xu;\nShigang Liu",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "IEEE Draft Standard for Blockchain-based Electronic Contracts",
+        "authors": "Unknown",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "IEEE Draft Standard for the Use of Blockchain in Supply Chain Finance",
+        "authors": "Unknown",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "IEEE Approved Draft Standard for the Use of Blockchain in Supply Chain Finance",
+        "authors": "Unknown",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Effective Scheme against 51% Attack on Proof-of-Work Blockchain with History Weighted Information",
+        "authors": "Xinle Yang;\nYang Chen;\nXiaohu Chen",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Lightweight Blockchain-Based Privacy Protection for Smart Surveillance at the Edge",
+        "authors": "Alem Fitwi;\nYu Chen;\nSencun Zhu",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Performance Analysis of a Hyperledger Fabric Blockchain Framework: Throughput, Latency and Scalability",
+        "authors": "Murat Kuzlu;\nManisa Pipattanasomporn;\nLevent Gurses;\nSaifur Rahman",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "ETH Relay: A Cost-efficient Relay for Ethereum-based Blockchains",
+        "authors": "Philipp Frauenthaler;\nMarten Sigwart;\nChristof Spanring;\nMichael Sober;\nStefan Schulte",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Air Gapped Wallet Schemes and Private Key Leakage in Permissioned Blockchain Platforms",
+        "authors": "Amanda Davenport;\nSachin Shetty",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Understanding Blockchain Technology: Abstracting the Blockchain",
+        "authors": "Morgen Peck",
+        "date_pub": "2018",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Introduction to Blockchain",
+        "authors": "Akshay Mudgal",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Subsidy-Chain: A Secure Blockchain-based Architecture for Subsidy Management and Tracking",
+        "authors": "K Dyamalli;\nRupalagudi Likhitha;\nY Harshitha Reddy;\nMonica N;\nArshiya Lubna;\nAshishika Singh",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain security architecture: A review technology platform, security strength and weakness",
+        "authors": "Latifa Al-Abbasi;\nWael El-Medany",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A High Performance Blockchain Platform for Intelligent Devices",
+        "authors": "Shitang Yu;\nKun Lv;\nZhou Shao;\nYingcheng Guo;\nJun Zou;\nBo Zhang",
+        "date_pub": "2018",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "IEEE Draft Standard for Application Technical Specification of Blockchain-based E-Commerce Transaction Evidence Collecting",
+        "authors": "Unknown",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "IEEE Approved Draft Standard for Application Technical Specification of Blockchain-based E-Commerce Transaction Evidence Collecting",
+        "authors": "Unknown",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Research and Design of Electric Power Engineering Project Management System Bsed on Blockchain Technology",
+        "authors": "Qinglei Guo;\nShuai Chen;\nJunsheng Wang;\nXiaoting Pan",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Routing Cross-Blockchain Communication",
+        "authors": "Max Kobelt;\nMichael Sober;\nStefan Schulte;\nLeandro Rometsch",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Research and Implementation on the Operation and Transaction System Based on Blockchain Technology for Virtual Power Plant",
+        "authors": "Da Li;\nQinglei Guo;\nDesheng Bai;\nWei Zhang",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-Based Software Systems: Taxonomy Development",
+        "authors": "Lamia Alashaikh",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain in Action",
+        "authors": "Bina Ramamurthy",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "CoDAG: An Efficient and Compacted DAG-Based Blockchain Protocol",
+        "authors": "Shu Yang;\nZiteng Chen;\nLaizhong Cui;\nMingwei Xu;\nZhongxing Ming;\nKe Xu",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Hybrid Blockchain Design for Privacy Preserving Crowdsourcing Platform",
+        "authors": "Saide Zhu;\nHuafu Hu;\nYingshu Li;\nWei Li",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Performance Analysis of a Hyperledger Iroha Blockchain Framework Used in the UK Livestock Industry",
+        "authors": "Konstantinos Ntolkeras;\nHossein Sharif;\nSoroush Dehghan Salmasi;\nWilliam Knottenbelt",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Security Assessment Model for Blockchain Software and Hardware Fusion Device Based on Decision Tree Algorithm",
+        "authors": "Ke Yang;\nShuang Sun;\nMingyang Lei;\nWeiyu Wang;\nXiukui Pan",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Reputation Management Framework for Knowledge-Based and Probabilistic Blockchains",
+        "authors": "Tara Salman;\nRaj Jain;\nLav Gupta",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Detection of Fake Physical Certificates using a Blockchain-Based Certificate Verification and Issuer Validation System",
+        "authors": "Ankit K C;\nDeepesh Bhandari;\nRojalina Priyadarshini;\nPramod Kumar Meher",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-Based Charging Coordination Mechanism for Smart Grid Energy Storage Units",
+        "authors": "Mohamed Baza;\nMahmoud Nabil;\nMuhammad Ismail;\nMohamed Mahmoud;\nErchin Serpedin;\nMohammad Ashiqur Rahman",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Mastering Blockchain: A technical reference guide to the inner workings of blockchain, from cryptography to DeFi and NFTs",
+        "authors": "Imran Bashir",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "IEEE Guide for an Architectural Framework for Blockchain‐Based Federated Machine Learning",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "ChainSplitter: Towards Blockchain-Based Industrial IoT Architecture for Supporting Hierarchical Storage",
+        "authors": "Gang Wang;\nZhijie Shi;\nMark Nixon;\nSong Han",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Research on carbon accounting and verification technology for power generation industry based on blockchain",
+        "authors": "Tingting Wen;\nZhe Du;\nQinglei Guo;\nXiukui Pan",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain Explorer based on RPC-based Monitoring System",
+        "authors": "Chaehyeon Lee;\nHeegon Kim;\nSajan Maharjan;\nKyungchan Ko;\nJames Won-Ki Hong",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Unlocking the Potential of Blockchain Integration in Secured Framework of Mental Health",
+        "authors": "Shipra Swati;\nRitesh K. Mishra;\nAlok Kumar;\nRajesh Ingle",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Concept of HAOpsSC: Toward Decentralized Operations for Ensuring High Availability in Consortium Blockchain-based Systems",
+        "authors": "Tatsuya Sato;\nTaku Shimosawa;\nNariyoshi Yamai",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Toward a Decentralized, Trust-Less Marketplace for Brokered IoT Data Trading Using Blockchain",
+        "authors": "Shaimaa Bajoudah;\nChangyu Dong;\nPaolo Missier",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Scalable Privacy-Preserving Query Processing over Ethereum Blockchain",
+        "authors": "Shlomi Linoy;\nHassan Mahdikhani;\nSuprio Ray;\nRongxing Lu;\nNatalia Stakhanova;\nAli Ghorbani",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Rchain: A Universal and Efficient Redactable Blockchain Scheme",
+        "authors": "Lingyuan Yin;\nJianfeng Shi;\nBin Xie;\nYang Liu",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain Data Index Method Based on Improved Red-black Tree",
+        "authors": "Ao Xiong;\nWenchuan Ma;\nYu Song;\nDong Wang;\nDa Li;\nGaoming Jin;\nYezhang Cao",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "BrokerChain: A Blockchain Sharding Protocol by Exploiting Broker Accounts",
+        "authors": "Huawei Huang;\nZhaokang Yin;\nQinde Chen;\nJian Zheng;\nXiaofei Luo;\nGuang Ye;\nXiaowen Peng;\nZibin Zheng;\nSong Guo",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Containerchain: A Blockchain System Emulator based on Mininet and Containers",
+        "authors": "Saul Gill;\nBrian Lee;\nYuansong Qiao",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Voting-Based Blockchain Interoperability Oracle",
+        "authors": "Michael Sober;\nGiulia Scaffino;\nChristof Spanring;\nStefan Schulte",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Blockchain-based Customizable Document Registration Service for Third Parties",
+        "authors": "Pamella Soares;\nRaphael Saraiva;\nIago Fernandes;\nAntônio Neto;\nJerffeson Souza",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Survey on Safety Regulation Technology of Blockchain Application and Blockchain Ecology",
+        "authors": "Pengxu Shen;\nSuozai Li;\nMing Huang;\nHaoyu Gao;\nLeixiao Li;\nJun Li;\nHong Lei",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-based Electronic Evidence Storage and Efficiency Optimization",
+        "authors": "Zhikun Miao;\nChengxu Ye;\nPing Yang;\nYing Chen;\nYutao Chen",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain based Digital Multimedia Content Authentication System: using IPFS and Ethereum",
+        "authors": "Anurag Pandey;\nJayanti Rout;\nAshutosh Soni;\nSurendra Kumar Nanda",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Research on Digital Finance Based on Blockchain Technology",
+        "authors": "Yuhan Zhu",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "An Evaluation Framework for Assessing IPFS Performance within a Blockchain-Based Healthcare System",
+        "authors": "Ghassan Al-Sumaidaee;\nRami Alkhudary;\nZeljko Zilic;\nAndraws Swidan",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Design and Application of Product Traceability Blockchain-based Platform",
+        "authors": "Yu Zhang;\nMenglu Jin;\nGuiping Zheng;\nHu Li",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "2024 Chinese guideline on the construction and application of medical blockchain",
+        "authors": "Unknown",
+        "date_pub": "2024",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Combating 3PCCL Greenwashing with the Blockchain Technology under Government Enforcement",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Restoring consumer trust in e-commerce: The role of blockchain technology and its behavioral implications",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Leveraging blockchain technology and process innovation for green supply chain performance in environmentally sensitive industries",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Harnessing the Synergy of Artificial Intelligence and Blockchain Technology in Smart Buildings for Enhanced Efficiency and Security",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-based network-constrained peer-to-peer energy trading in a reconfigurable distribution network",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Supply chain structure and blockchain deployment strategies in competing supply chains",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Mediation effects in blockchain technology adoption for social sustainability: Pre- and post-adoption analysis of existing and future socially sustainable supply chains",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain adoption for promoting carbon emission reduction in relation to social comparison and competition",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Secrets on the Chain: Cryptographic Blockchain Patterns for Verifiable and Confidential Data Handling",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Exploring the intersection of blockchain and e-health: A bibliometric analysis of recent research",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain investment, FinTech, and employee innovation",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain, financial incentives, and regenerative tourism",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Duopolistic blockchain adoption strategies with risky green R&D",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Privacy-preserving electricity trading matching based on blockchain in smart grid",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Assessing blockchain technology's technical utility in construction supply chains: A multi-KPI decision support approach via use cases",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Impacts of blockchain on recycling strategy in the presence of retailing platform under extended producer responsibility",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain applications and the relational normativity of international space law",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Risk management of transaction security using blockchain technology in the international logistics industry",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Application of Blockchain-based Digital Twin Technology in Healthcare: A Scoping Review",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Anomaly detection for blockchain nodes based on eBPF and fine-tuning large language model",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain implementation in municipal solid waste circular supply chain: A stakeholder’s analysis",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain affordances in digital health: a systematic review and research agenda for personalized health-care",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain technology investment, corporate financial value innovation, and brand loyalty",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "IBFT: An Impartial Byzantine Fault Tolerance Consensus Protocol for Blockchain",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "",
+        "authors": "",
+        "date_pub": "Unknown Date",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Review of Barriers to Implement Blockchain Technologies in Logistics",
+        "authors": "Sinan Cizmecioglu, Ahmet Calik, Esra Boz",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain Inception: Scheduling and Caching Optimizations for supporting a PoW Blockchain on the Internet Computer (Industry Track)",
+        "authors": "Maksym Arutyunyan, Andriy Berestovskyy, Adam Bratschi-Kaye, Dragoljub Đurić, + 4",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain Security and Privacy: Threats, Challenges, Applications, and Tools",
+        "authors": "Ahod Alghuried, Mohammed Alkinoon, Manar Mohaisen, An Wang, Cliff Zou, + 1",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Machine Learning for Blockchain Data Analysis: Progress and Opportunities",
+        "authors": "Poupak Azad, Cuneyt Gurcan Akcora, Arijit Khan",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Key Determinants of Blockchain Adoption: A Unified Framework Integrating UTAUT and TOE Models",
+        "authors": "Kelwin Seen Tiong Tan, Angela Siew Hoong Lee",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-based access control dynamic key authentication protocol in IoT",
+        "authors": "Xiaoran Zhao, Changgen Peng, Weijie Tan, Hongfa Ding",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Design of Educational Data Management System with Blockchain and High Functional Digital Signatures",
+        "authors": "Yudai Hata, Kouichi Sakurai",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Exploring Consumer Trust for Blockchain Adoption for Digital Payment Systems in Bhutan",
+        "authors": "Tenzin Norbu, Joo Yeon Park, Kok Wai Wong, Hui Cui",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "An Approach of Monitoring the Vehicle's Condition Based on Blockchain and Smart Contracts",
+        "authors": "Stanislav Ivanovich Trofimov, Leonid Sergeevich Voskov, Mikhail Mikhailovich Komarov",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Operational Decision-Making in Capital-Constrained Supply Chains with Channel Encroachment and Blockchain Adoption",
+        "authors": "Manru Li, Zegang Zhang, Silin He",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Calling for Play-Oriented Research on Blockchain Video Games: An Overview Study",
+        "authors": "Hugh X. Liu, Jussi P. Holopainen",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Lightweighted Blockchain Deploying Method in IoT Systems",
+        "authors": "Ruihan Wang, Qi Wang, Siyao Cheng, Dongbo Li, Jie Liu",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Research into the integration of blockchain technology and full life cycle auditing of PPP projects",
+        "authors": "Yanru Kong, Jiawu Yue",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Certifichain: Secure QR Codes for Blockchain-Verified Digital Credentials",
+        "authors": "Yudha Purwanto, Muhammad Faris Ruriawan, Agus Virgono, Hamzah Fatihulhaq, + 5",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Safeguarding Blockchain Ecosystem: Understanding and Detecting Attack Transactions on Cross-chain Bridges",
+        "authors": "Jiajing Wu, Kaixin Lin, Dan Lin, Bozhao Zhang, Zhiying Wu, Jianzhong Su",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "TLD-SCA: A Transformer-LSTM Detection Model against Side-Channel Attack in Blockchain Payment Channel",
+        "authors": "Tao Li, Fei Qiao, Yijia Wang, Kui Lu, Yan Lv, Yilei Wang",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Enhancing Smart Contract Security on VNT Blockchain with an Advanced Graph Neural Network Approach",
+        "authors": "Bang Pan, Chenyu Yan, Yunchao Wang, Qiang Wei",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Enhancing Blockchain Scalability using Off-Chain and Machine Learning Techniques",
+        "authors": "Manjula K. Pawar, Prakashgoud Patil, P. S. Hiremath",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "SoK: Blockchain Consensus in the Quantum Age",
+        "authors": "Aleck Nash, Christian Eduardo Terron Garcia, Henry Chimal-Dzul, + 1",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain Amplification Attack",
+        "authors": "Taro Tsuchiya, Liyi Zhou, Kaihua Qin, Arthur Gervais, Nicolas Christin",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Accelerating Verifiable Queries over Blockchain Database System Using Processing-in-memory",
+        "authors": "Yifan Hua, Shengan Zheng, Weihan Kong, Dongliang Xue, Ke Xi, + 3",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Evolutionary game analysis of multi-agent information sharing in blockchain-driven industrial platforms",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain technology, big data evidence, and financial crime",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain technology for sustainable supply chains in the fishing industry: A systematic review",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain technology through a paradox lens: Bridging the gap between promise and reality?",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "BRIDGE: A memory-efficient blockchain-agnostic layer for chain topology representation in heterogeneous architectures",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Optimal decision-making and complex analysis in green supply chains considering blockchain and consumer privacy concern",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "The impact of retailer’s demand forecast information sharing on platform supply chain efficiency under blockchain technology",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Bank financing or e-commerce platform financing: Green supply chain financing strategies with blockchain integration",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Market reaction to blockchain news: The role of digital transformation",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Grid connection strategy for photovoltaic power supply chain empowered by blockchain: Partial grid connection or full grid connection?",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Machine Learning and Blockchain Synergy: Opportunities and Challenges for ML Models and Smart Contracts",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Retailer blockchain adoption with strategic consumers facing counterfeit entry",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "One for all: A comprehensive graph structure of the account-based blockchain for multi-view analysis",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Can blockchain technology reduce supply chain finance risk? The mediating role of information transparency",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Analysis of the impact of blockchain on auditing based on future research approach",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Navigating the quantum computing threat landscape for blockchains: A comprehensive survey",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain traceability valuation for perishable agricultural products: Balancing economic benefit and social impact",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "From ambiguity to transparency: Blockchain-enabled origin traceability for premium agricultural product",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Gold or gild: Does blockchain attention improve the efficiency of supply chain?",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Combating contamination incidents: the value of blockchain for competing retailers",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "On scaling LT-coded blockchains in heterogeneous networks and their vulnerabilities to DoS threats",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Exploring the impact of blockchain technology on supply chain transparency and corporate financing costs",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Overcoming Dynamic Connectivity in Internet of Vehicles: A DAG Lattice Blockchain with Reputation-Based Incentive",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Building blocks of a Blockchain-enabled framework for the humanitarian supply chain",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain technology development, green finance, and urban public transportation service level",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Resource-Efficient joint clustering and storage optimization for blockchain-Based IoT systems",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-based carbon informatics for multiple stakeholders using spatial-temporal analytics",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Adaptive blockchain task sharding for reliable V2X incident management",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Application of blockchain-based digital twin technology in healthcare: A scoping review",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Dismantling data silos with blockchain to unleash collaborative innovation among government departments in South Africa",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain Implementation for Analysis of Carbon Footprint across Food Supply Chain",
+        "authors": "Denisolt Shakhbulatov;\nArshit Arora;\nZiqian Dong;\nRoberto Rojas-Cessa",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Research and Application of Renewable Energy Power Consumption Certificate Based on Blockchain",
+        "authors": "Tingting Duan;\nDa Li;\nQinglei Guo;\nHejian Wang;\nDesheng Bai",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Investigating the Application of Nested NFTs on Consortium Blockchain for Enterprise Supply Chain Traceability Management",
+        "authors": "Satoshi Ito;\nTatsuya Sato;\nTakayuki Nagai;\nShinsuke Hasegawa;\nKatsuhiro Fukunaka;\nTaichi Umeda",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Novel Blockchain-Based IoT Data Provenance Model",
+        "authors": "Shuang Sun;\nHuayun Tang;\nRong Du",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Privacy-Preserving and Incentive-Driven Relay-Based Framework for Cross-Domain Blockchain Interoperability",
+        "authors": "Saeed Moradi;\nKoosha Esmaeilzadeh Khorasani;\nSara Rouhani",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "IDNat-Blockchain: A Concept for Indonesia's National Blockchain",
+        "authors": "Dea Saka Kurnia Putra;\nAntonius Alfari",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Research On Electricity Spot Market Trading System Based On Blockchain Technology",
+        "authors": "Junwei Ma;\nJian Wu;\nWeihua He;\nWenna Zhao;\nYitao Han;\nXiukui Pan;\nJingli Feng",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Notara: Efficient Blockchain Asset Notarization Service",
+        "authors": "Guillermo Toyos-Marfurt;\nRouwaida Abdallah;\nÁlvaro García-Pérez",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Analysis of Blockchain Technology and its Application in the Field of Radio Monitoring",
+        "authors": "Xiaoying Ma;\nMeiying Wei;\nXiaoli Li;\nXiaofei Zhang",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Application of data storage management system in blockchain-based technology",
+        "authors": "Xinyan Wang;\nJingli Jia;\nYuke Cao;\nJiacheng Du;\nAn Hu;\nYong Liu;\nZhiyong Wang",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Secure and Flexible Blockchain-Based Offline Payment Protocol",
+        "authors": "Wanqing Jie;\nWangjie Qiu;\nArthur Sandor Voundi Koe;\nJianhong Li;\nYin Wang;\nYaqi Wu;\nJin Li;\nZhiming Zheng",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "The Scope for Blockchain Ecosystem",
+        "authors": "Manisha Suri",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Research on Deep Forgery Data Identification and Traceability Technology Based on Blockchain",
+        "authors": "Ke Yang;\nDa Li;\nQinglei Guo;\nHejian Wang;\nDesheng Bai;\nXiukui Pan",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain – Revolutionize Green Energy Management",
+        "authors": "Pholapatara Ratanasopitkul",
+        "date_pub": "2018",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "BlockIPFS - Blockchain-Enabled Interplanetary File System for Forensic and Trusted Data Traceability",
+        "authors": "Emmanuel Nyaletey;\nReza M. Parizi;\nQi Zhang;\nKim-Kwang Raymond Choo",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain Dividing Based on Node Community Clustering in Intelligent Manufacturing CPS",
+        "authors": "Suisheng Li;\nHong Xiao;\nHao Wang;\nTao Wang;\nJingwei Qiao;\nShaofeng Liu",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "An Innovative Blockchain System for Smart Grids",
+        "authors": "Mandana Falahi;\nAndrei Vasilateanu;\nNicolae Goga;\nGeorge Suciu;\nMari-Anais Sachian;\nRobert Florescu;\nHaider Abdullah Ali;\nYi Qian",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain based Secure and Effective Authentication Mechanism for 5G Networks",
+        "authors": "R Bala;\nR Manoharan",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Blockchain-based Service for Public Sector Governance",
+        "authors": "Jiayue Li;\nMin Zhang;\nXiaofeng Jia;\nDingding Lin",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A First Analytics Approach to Cardano",
+        "authors": "Sina Rafati Niya;\nIvana Mesić;\nGeorgios Anagnostou;\nGabriele Brunini;\nClaudio J. Tessone",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "IEEE Draft Standard for Framework of Blockchain-based Internet of Things (IoT) Data Management",
+        "authors": "Unknown",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "IEEE Approved Draft Standard for Framework of Blockchain-based Internet of Things (IoT) Data Management",
+        "authors": "Unknown",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Architectural Design Decisions for Blockchain-Based Applications",
+        "authors": "Maximilian Wöhrer;\nUwe Zdun",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Points Transaction Mechanisms Based on Blockchain Technology",
+        "authors": "Jinfei Wu;\nJiayuan Zhang;\nRongxin Guo;\nWanting Tang",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain for Embedded System Accountability",
+        "authors": "Michael Chiu;\nAbraham Goldsmith;\nUroš Kalabić",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Decentralized Blockchain-Driven Urban Parking System with IOTA for Management, Reservation, and Payment Integration in Smart Cities",
+        "authors": "Hala Ben Ali;\nLujain Amro;\nSalahaldin Abukhalaf;\nAnastassia Gharib",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Towards a Cross-Chain Genomic Data Interoperability Framework: Secure and Compliant Federated Data Exchange Using Private Blockchains",
+        "authors": "Fatimah Alakeel;\nBasil Alothman",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Security Reference Architecture for Blockchains",
+        "authors": "Ivan Homoliak;\nSarad Venugopalan;\nQingze Hum;\nPawel Szalachowski",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "VAULT: A Scalable Blockchain-Based Protocol for Secure Data Access and Collaboration",
+        "authors": "Justin S. Gazsi;\nSajia Zafreen;\nGaby G. Dagher;\nMin Long",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Review of Modern Blockchain Platforms",
+        "authors": "Daria A. Snegireva",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Semantic Detection Incentive Mechanism For Blockchain Transactions Based on Evolutionary Game Theory in Web3 Ecosystem",
+        "authors": "Zishuai Zhang;\nQinnan Zhang;\nWangjie Qiu;\nHongwei Zheng;\nShuyi Miao;\nWanqing Jie;\nJianming Zhu;\nJin Dong;\nZhiming Zheng",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Decentralized Ticketing: A Blockchain Solution for Secure and Fair Event Access",
+        "authors": "Janhavi Nate;\nMahek Parmar;\nParth Shethia;\nPreem Pareva;\nHezal Lopes",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Hybrid Blockchain Architecture for Privacy-Enabled and Accountable Auctions",
+        "authors": "Harsh Desai;\nMurat Kantarcioglu;\nLalana Kagal",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "EduCoin: a Secure and Efficient Payment Solution for MOOC Environment",
+        "authors": "Lingling Lu;\nJianhai Chen;\nZijun Tian;\nQinming He;\nButian Huang;\nYang Xiang;\nZhenguang Liu",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Research on Power Supply Traceability Mode Based on Blockchain",
+        "authors": "Peng Liu;\nChunyu Deng;\nDazhong Wang",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Towards Declarative Blockchains: A SHACL-Based Model for Robust and Efficient Transactions",
+        "authors": "Kemafor Anyanwu;\nSogolsadat Mansouri;\nDavid Adei",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Token-Based Sharing Control for IPFS",
+        "authors": "Shigenori Ohashi;\nHiroki Watanabe;\nTatsuro Ishida;\nShigeru Fujimura;\nAtsushi Nakadaira;\nJunichi Kishigami",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Testbed Design and Performance Analysis for Multilayer Blockchains",
+        "authors": "De-Yi Tsai;\nSeth Austin Harding;\nMing-Fong Sie;\nShih-wei Liao",
+        "date_pub": "2021",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "NutBaaS: A Blockchain-as-a-Service Platform",
+        "authors": "Weilin Zheng;\nZibin Zheng;\nXiangping Chen;\nKemian Dai;\nPeishan Li;\nRenfei Chen",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Data Security Based on Blockchain Digital Currency",
+        "authors": "Mengyi Xie;\nZuobin Liao;\nLiting Huang",
+        "date_pub": "2020",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Incentivizing Sustainable Behaviour using Blockchain for Ecofriendly Transportation",
+        "authors": "Shivam Barkule;\nPriya Shelke;\nChaitali Shewale;\nSuruchi Dedgoankar;\nPawan Wawage;\nPradnya Kulkarni",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Exploring AIoT Blockchain Transaction Semantic Detection and Incentive Mechanism With Evolutionary Game Toward Web 3.0 Ecosystem",
+        "authors": "Qinnan Zhang;\nZishuai Zhang;\nYiran Chen;\nMisha Xu;\nZehui Xiong;\nJiequ Ji;\nWangjie Qiu;\nHongwei Zheng;\nJianming Zhu;\nJin Dong;\nZhiming Zheng",
+        "date_pub": "2025",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Proxy-Layer Approach to Secure Smart Contract Deployment on Private EVM-Based PoA Blockchains",
+        "authors": "Yonghao Wang;\nJahid Ali;\nJunaid Arshad;\nYunxia Liu",
+        "date_pub": "2023",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Privacy-Preserving and Efficient Data Sharing Scheme Based on Blockchain in IIoT",
+        "authors": "Hongyan Peng;\nYipeng Yang;\nDongcheng Li;\nPeng Wang;\nPeng Liu",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Resident-Centric Government EV Charging Stations using Blockchain technology",
+        "authors": "Padma J;\nKolli Likhita;\nSunkara Ravi Sailendra Charan;\nGadam Leela Krishna Vani Pradhayi;\nChebrolu Naga Vardhan",
+        "date_pub": "2024",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Permissioned Blockchain Based Access Control System for IOT",
+        "authors": "Md. Azharul Islam;\nSanjay Madria",
+        "date_pub": "2019",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Research on blockchain consensus algorithm for large-scale high-concurrency power transactions",
+        "authors": "Xuesen Zhang;\nQinglei Guo;\nXiaoxiao Ma;\nZhe Du;\nShuang Sun;\nDesheng Bai",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Understanding Blockchain Technology: The Costs and Benefits of Decentralization",
+        "authors": "Morgen Peck",
+        "date_pub": "2018",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A distributed ABAC access control scheme based on blockchain",
+        "authors": "Haichao Wang;\nZhiyu Ren;\nTianpeng Zhang;\nQiuli Wang",
+        "date_pub": "2022",
+        "source": "IEEE Xplore",
+        "journal": "IEEE",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "DAPPaaS: A Customizable Blockchain as a Service Platform for Decentralized Web3 Applications",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "AI-Enabled Perspective for Scaling Consortium Blockchain",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Optimizing Resource Allocation in Blockchain Networks Using Neural Genetic Algorithm",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "The impact of blockchain on the banking sector: A systematic review of applications, challenges, and future directions",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Reassessing blockchain in global development: Tokenization of infrastructure, social impacts, and the axie infinity case in the Philippines",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-enabled governance of greenwashing in the building material supply chain: A differential game approach",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Hub-blockchain: Unveiling the transparency paradigm in physical supply chains",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-as-a-Service: A Pure Chain Approach",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "LLM-based exploration and analysis of real-time and historical blockchain data",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Mapping Methodology Enabling Object-Centric Process Mining on Blockchain Applications",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Security-aware optimization of PoW-based blockchain performance using a genetic algorithm approach",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Coordination of supply chain contracts on blockchain platforms",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-enabled reliable outsourced decryption CP-ABE using responsive zkSNARK for mobile computing",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Ternary tree enhanced append-only skip list: A high-performance blockchain data search index",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "The emerging role of blockchain technology in ensuring food safety: A review",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain barriers in public organizations: A systematic literature review",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "PSVDF: A data protection framework for vehicle digital forensics utilizing blockchain view and cross-platform secure space",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A blockchain-based circular economy taxonomy model for secure & efficient toxic materials supply chain: A technology-based intervention and case study approach",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A new blockchain and IoT based architecture of food safety system for confectionery supply chain in Industry 4.0 era",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Permissioned blockchain architecture enabling bounded-time PBFT consensus over deterministic networks",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "SimBlockLink: A Middleware for Linking IoT Simulations with Real Blockchain Platforms for Enhanced Performance Evaluation",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Are contemporary policies uncertainties driving public attention to blockchain-fintech and price movements of related derivative products? Evidence from the United States",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Integration of Internet of Things blockchain and artificial intelligence for scalable and secure precision environmental management",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-based secure trusted clusters for multi-tiered Social IoT environments in edge-cloud networks",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Determining the effect of blockchain technology on the medical waste management process in the circular economy framework using integrated FUCOM-ARAS methods",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-based trust management systems in the Internet of Vehicles: A comprehensive survey",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "DBASC: Decentralized blockchain-based architecture with integration of smart contracts for secure communication in VANETs",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Performance comparison of permissioned and permissionless blockchain by varying workload transaction",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Analysis of blockchain technology implementing and financing provision strategies in contract farming supply chains",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-driven sustainable business model for artisanal and small-scale mining operators in Zambia",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain for the metaverse: Recent advances, taxonomy, and future challenges",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Can blockchain technology promote digital governance? An investigation of fintech’s mediating role and heterogeneity",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Consortium Blockchain Integrated with Industrial IoT Devices to Perform a Real Time Detection of Air and Water Pollution",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "BISE: Enhance data sharing security through consortium blockchain and IPFS",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-assisted attribute-based multi-keyword search for dynamic encrypted data in cloud-edge-IoT",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Scalable blockchain-based solution for drug tracking in pharmaceutical supply chain",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-enabled quality transparency and invoice tokenization in deep-tier supply chains",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Can blockchain smart contracts improve the operational efficiency of green supply chain emission reduction technologies?",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-IoMT-enabled federated learning: An intelligent privacy-preserving control policy for electronic health records",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Challenges of IoT sensors in smart buildings ecosystems and integration of blockchain for enhanced security and efficiency",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "An analytics-based model for securing the healthcare drug distribution network with blockchain",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Does the application of blockchain technology enhance total factor productivity of enterprises?",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "The evolution of blockchain in smart buildings with IoT integration and future prospects",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-Based Decentralized Domain Name System",
+        "authors": "Guang Yang, Peter Trinh, Amuru Serikyaku, Alma Nkemla, Edward Tatchim, + 1",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "The Application of Blockchain Technology in International Commercial Arbitration",
+        "authors": "Xin Yang, Ziqing Zhang, Yi Zhou",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain Agnostic Protocols: An Analysis of the State of the Art",
+        "authors": "Alessandro Bigiotti, Leonardo Mostarda, Alfredo Navarra, Andrea Pinna, + 3",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "LETUS: A Log-Structured Efficient Trusted Universal BlockChain Storage",
+        "authors": "Shikun Tian, Zhonghao Lu, Haizhen Zhuo, Xiaojing Tang, Peiyi Hong, + 6",
+        "date_pub": "2024",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Identifying Suspicious Blockchain Transactions using Clustering with Explainability",
+        "authors": "Jeyakumar Samantha Tharani, Eugene Yugarajah Andrew Charles, Punit Rathore, + 3",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "LVMT: An Efficient Authenticated Storage for Blockchain",
+        "authors": "Chenxing Li, Sidi Mohamed Beillahi, Guang Yang, Ming Wu, Wei Xu, Fan Long",
+        "date_pub": "2024",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "The Impact of Blockchain Technology on Accounts Receivable Financing Model of Supply Chain Finance-Based on Three-Party Evolutionary Game Perspective",
+        "authors": "Mingxin Yang, Zehao Ma",
+        "date_pub": "2024",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Exploring Human-Centric Dimensions in Blockchain Smart Contracts",
+        "authors": "Hanouf Al. Ghanmi, Sabreen Ahmadjee, Rami Bahsoon, Hayatullahi Bolaji Adeyemo",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "MAP the Blockchain World: A Trustless and Scalable Blockchain Interoperability Protocol for Cross-chain Applications",
+        "authors": "Yinfeng Cao, Jiannong Cao, Dongbin Bai, Long Wen, Yang Liu, Ruidong Li",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "SoK: Systematizing Blockchain Interoperability through Layered Architecture and Layer 2 Interoperability",
+        "authors": "Khalid Hassan, Aila Nik, Amirreza Sokhankhosh, Koosha Esmaeilzadeh Khorasani, + 2",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Enhancing Certificate Revocation List Management in Vehicular Networks with Blockchain and Query Cumulative Filters",
+        "authors": "Mengzhen Jiang, Jing Wu, Chengnian Long",
+        "date_pub": "2024",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-Empowered Trustworthy Data Sharing: Fundamentals, Applications, and Challenges",
+        "authors": "Thanh Linh Nguyen, Lam Nguyen, Thong Hoang, Dilum Bandara, Qin Wang, + 4",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Aegis: Tethering a Blockchain with Primary-Chain Stake",
+        "authors": "Yogev Bar-On, Roi Bar-Zur, Omer Ben-Porat, Nimrod Cohen, Ittay Eyal, + 1",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain for Smart Logistics: Enhancing Identity Security, Bidding Transparency and Goods Tracking",
+        "authors": "Zoey Ziyi Li, Jun Zhao, Hui Cui, Erica Xin Zheng, Xin Ma, + 2",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain, IoT, and AI-based framework for traceability in carbon capture utilization storage (CCUS) supply chain",
+        "authors": "Pratyush Kumar Patro, Adolf Acquaye, Raja Jayaraman, Khaled Salah",
+        "date_pub": "2024",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain in the Digital Twin Context: A Comprehensive Survey",
+        "authors": "Dun Li, Dezhi Han, Noel Crespi, Roberto Minerva, Syed Mohsan Raza, + 3",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Lightweight Consensus in Blockchain: A Systematic Literature Review",
+        "authors": "Namrata Marium Chacko, Narendra V G, Mamatha Balachandra, Manoj T",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Blockchain-based Framework for News Fine-grained Detection and Management",
+        "authors": "Huijian Han, Peidong Chen, Feng Yang, Rui Zhang",
+        "date_pub": "2023",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Visualizing the Ledger: Teaching Blockchain as Design Material",
+        "authors": "Paulo Bala, Sabrina Scuri, Catia Prandi, Nuno Jardim Nunes, Valentina Nisi",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Security Architectural Approaches and Risk Assessment Methods for Blockchain Systems: A Review and Future Directions",
+        "authors": "Sabreen Ahmadjee, Carlos Mera-Gómez, Rami Bahsoon, Rajkumar Buyya",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Achieving Privacy-Preserving Optimizer Architecture for Intent Execution on EVM Blockchain",
+        "authors": "Weijie Wang, Haotian Deng, Jinwen Liang, Chuan Zhang",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "ConsortiumSec: Blockchain-Based Distributed Security Framework for Consortium Applications",
+        "authors": "Kewei Sha, Kwok-Bun Yue, Wei Wei, Yalong Wu, Madhuri Koduru, + 1",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Efficient DoS Attack Defense Strategy for Blockchain Networks Based on Bayesian Attack Graph and Stackelberg Game",
+        "authors": "Tianyi Wang, Wei Tang, Chengyi Dong, Entang Li, Zhou Su, Jiliang Li",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Cumulus: Blockchain-Enabled Privacy-Preserving Data Audit in Cloud",
+        "authors": "Prabal Banerjee, Nishant Nikam, Subhra Mazumdar, Sushmita Ruj",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Time Tells All: Deanonymization of Blockchain RPC Users with Zero Transaction Fee",
+        "authors": "Shan Wang, Ming Yang, Yu Liu, Yue Zhang, Shuaiqing Zhang, Zhen Ling, + 2",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "3D-DAG: Scaling Blockchain via DAG",
+        "authors": "Qin Wang, Shiping Chen",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Mining Attack with Zero Knowledge in the Blockchain",
+        "authors": "Yu Jiaping, Gao Shang, Song Rui, Zhiping Cai, Xiao Bin",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Research on Collaborative Mechanism of Distributed Measurement Data Annotation and Federated Learning Based on Blockchain Smart Contracts",
+        "authors": "Zhiyuan He, Ting Li, Dan Pan, Yuxiang Cai, Ting Fu, Mingyang Lei",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Research on key technologies of park carbon emission monitoring and accounting based on blockchain",
+        "authors": "Shijie Ji, Jiahan Hao, Zhuyu Shi, Wanli Hu, Ning Yang",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "VPT: Privacy Preserving Energy Trading and Block Mining Mechanism for Blockchain Based Virtual Power Plants",
+        "authors": "Muneeb Ul Hassan, Mubashir Husain Rehmani, Jinjun Chen",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Establishing a Baseline for Evaluating Blockchain-Based Self-Sovereign Identity Systems: A Systematic Approach to Assess Capability, Compatibility and Interoperability",
+        "authors": "Wei Yao, Wenlu Du, Jingyi Gu, Junyi Ye, Fadi P. Deek, Guiling Wang",
+        "date_pub": "2024",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-based power data assetization business model and Strategic Value",
+        "authors": "Xiaoli Guo, FENG LU, JIN LI",
+        "date_pub": "2024",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Poster: RepuChainFL: A Blockchain-based Trustworthy Federated Learning System for VEC",
+        "authors": "Muhammad Naveed, Wenjia Li",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "STRuB: A Self-Defense Trust Management Model Based on Blockchain for VANETs",
+        "authors": "Lijun Wei, Cong Wu, Xiaoying Tao, Xiaofeng Xu, Yuhan Yang, Jing Wu, + 1",
+        "date_pub": "2024",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Blockchain-based System for Dataset Certification and Integrity Verification",
+        "authors": "Antonino Galletta, Salvatore Gabriele Branca, Maria Teresa Reggio, massimo Villari",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "SymBChainSim: A Novel Simulation System for Info-Symbiotic Blockchain Management",
+        "authors": "Georgios Diamantopoulos, Rami Bahsoon, Nikos Tziritas, Georgios Theodoropoulos",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-based Secure Key Distribution for WSNs in Soil Monitoring",
+        "authors": "Haosong Huang, Yong Ding, Yujue Wang, Changsong Yang, Hai Liang, + 1",
+        "date_pub": "2024",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "BlockGuardian: Intelligent Multi-Dimensional Blockchain Code Analysis Framework",
+        "authors": "Ruohan Gao, Qiao Wu",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "BlockNetSys '25: Proceedings of the 2025 ACM CoNEXT Workshop on Blockchain-Network Synergy",
+        "authors": "Huawei Huang, Dusit Niyato, Yi Sun, Hironori Washizaki",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Decentralized Oil Extraction Infrastructure via Blockchain-Enabled IoT Networks",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "SVD-BDRL: A trustworthy autonomous driving decision framework based on sparse voxels and blockchain enhancement",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Unmanned Aerial Vehicles-based blockchain-inspired Intelligent framework for collaborative intrusion detection",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "An integrated blockchain architecturefor sustainable higher education administration",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Integrating blockchain with virtual power plants: Two-level future roadmaps for enhanced performance",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "BMSES: Blockchain and mobile edge computing-based secure and energy-efficient system for healthcare data management",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Evaluation of sustainable strategies for implementing blockchain technology in the solar energy supply chain under fuzzy ZE-numbers",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Big Step: A fast quantum algorithm for nonce discovery in Proof-of-Work blockchains",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Blockchain-enabled traceability for rice blending fraud: A practical framework to strengthen supply chain integrity in smart agricultural IoT",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Security Assumptions in Permissionless Blockchains and Layer 2 Scalability Solutions: A Comprehensive Taxonomy",
+        "authors": "Unknown",
+        "date_pub": "2025",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Mapping the determinants influencing the adoption of blockchain innovations in SMEs: A multi-stage pythagorean fuzzy decision-making framework",
+        "authors": "Unknown",
+        "date_pub": "2026",
+        "source": "ScienceDirect",
+        "journal": "ScienceDirect Journal",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "A Blockchain-Based Conditional Anonymous Authentication Scheme",
+        "authors": "Sen Wang, Yin Zhang, Ling Xiong",
+        "date_pub": "2024",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "BPI: A Novel Efficient and Reliable Search Structure for Hybrid Storage Blockchain",
+        "authors": "Xinkui Zhao, Rengrong Xiong, Guanjie Cheng, Xinhao Jin, Shawn Shi, + 5",
+        "date_pub": "2025",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Utilization of Blockchain Technology within the Framework of Rural Landscape Assessment Systems",
+        "authors": "Wei Wei, Pengliang Qie",
+        "date_pub": "2024",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    },
+    {
+        "title": "Cross-Blockchain Communication Using Oracles With an Off-Chain Aggregation Mechanism Based on zk-SNARKs",
+        "authors": "Michael Sober, Giulia Scaffino, Stefan Schulte",
+        "date_pub": "2024",
+        "source": "ACM Digital Library",
+        "journal": "ACM",
+        "abstract_": "N/A"
+    }
+]

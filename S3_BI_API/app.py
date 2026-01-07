@@ -11,8 +11,7 @@ app = Flask(__name__)
 CORS(app, resources={r"/*": {"origins": "*"}})
 
 # 2. CONNECT TO MONGODB (Docker Friendly)
-# We use 'host.docker.internal' to reach MongoDB running on the host machine/docker desktop
-MONGO_URI = "mongodb://host.docker.internal:27017/" 
+MONGO_URI = "mongodb://localhost:27017/" 
 
 try:
     client = MongoClient(MONGO_URI, serverSelectionTimeoutMS=5000)

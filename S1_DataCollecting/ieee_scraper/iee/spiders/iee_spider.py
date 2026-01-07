@@ -1,4 +1,5 @@
 import scrapy
+from scrapy import signals
 import time
 import re
 import pymongo
@@ -16,79 +17,94 @@ class IeeSpider(scrapy.Spider):
         super(IeeSpider, self).__init__(*args, **kwargs)
         self.keywords = keywords
         self.max_pages = int(pages)
-        
-        # 1. Stealth Settings
-        options = uc.ChromeOptions()
-        options.add_argument("--start-maximized")
-        options.add_argument("--disable-blink-features=AutomationControlled")
-        
-        self.driver = uc.Chrome(options=options)
+        self.driver = None
+
+    @classmethod
+    def from_crawler(cls, crawler, *args, **kwargs):
+        spider = super(IeeSpider, cls).from_crawler(crawler, *args, **kwargs)
+        crawler.signals.connect(spider.spider_closed, signal=signals.spider_closed)
+        return spider
 
     def start_requests(self):
+        # Initialize Driver
+        options = uc.ChromeOptions()
+        options.add_argument("--start-maximized")
+        # options.add_argument("--headless") # NEVER use headless for IEEE, they block it
+        
+        self.driver = uc.Chrome(options=options)
+        
+        # Open a blank page first to set up the driver safely
         yield scrapy.Request(url='data:,', callback=self.parse_selenium, dont_filter=True)
 
     def parse_selenium(self, response):
+        if not self.driver: return
+
+        # 1. Navigate to Search
         url = f'https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText={self.keywords}'
         self.driver.get(url)
         
-        print("\n" + "="*40)
-        print("   BROWSER OPENED. LOADING IEEE XPLORE...")
-        print("="*40 + "\n")
+        print("\n" + "="*50)
+        print("   IEEE BROWSER OPENED")
+        print("   Waiting for you to solve Captcha (if any)...")
+        print("="*50 + "\n")
 
-        # Wait specifically for the results LIST to appear
+        # 2. HUMAN INTERVENTION LOOP
+        # This prevents the browser from closing if a Captcha appears.
+        # It waits up to 60 seconds for the result list to appear.
         try:
-            WebDriverWait(self.driver, 20).until(
+            WebDriverWait(self.driver, 60).until(
                 EC.presence_of_element_located((By.CLASS_NAME, "List-results-items"))
             )
+            print(">>> Results list found! Starting scrape...")
         except:
-            print("Action Required: Please check browser for CAPTCHA.")
-            time.sleep(10)
+            print("!!! TIMEOUT: Could not find results. Did you solve the Captcha?")
+            self.driver.save_screenshot("ieee_load_fail.png")
+            return # Stop here if it failed to load
 
-        # Close Cookie Banner
+        # 3. Close Cookie Banner (Optional)
         try:
             WebDriverWait(self.driver, 5).until(
                 EC.element_to_be_clickable((By.CLASS_NAME, "cc-btn-accept-all"))
             ).click()
         except: pass
 
+        # 4. Start Pagination Loop
         page_count = 1
-
         while page_count <= self.max_pages:
             print(f"\n--- PROCESSING PAGE {page_count} ---")
             
-            # Scroll to trigger lazy loading
+            # Scroll to load images/lazy elements
             self.driver.execute_script("window.scrollTo(0, 1000);")
             time.sleep(1)
             self.driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
             time.sleep(3)
             
-            # --- FIX 1: CORRECT CONTAINER SELECTOR ---
-            # We select the individual items inside the main list wrapper
+            # Find articles
             containers = self.driver.find_elements(By.CSS_SELECTOR, "div.List-results-items .xpl-results-item, div.result-item")
             print(f"DEBUG: Found {len(containers)} articles.")
 
             if not containers:
-                self.driver.save_screenshot(f"debug_ieee_page_{page_count}.png")
+                print("No articles found on this page. Stopping.")
                 break
             
             for container in containers:
                 item = IeeItem()
                 try:
-                    # --- FIX 2: UPDATED TITLE SELECTOR (IEEE uses h3 or 'result-item-title') ---
+                    # Extract Title
                     try:
                         title_el = container.find_element(By.CSS_SELECTOR, "h3.text-md-md-lh a, h2 a, .result-item-title a")
                         item['title'] = title_el.text.strip()
                     except: 
                         item['title'] = "Unknown Title"
 
-                    # --- FIX 3: UPDATED AUTHORS SELECTOR ---
+                    # Extract Authors
                     try:
                         author_el = container.find_element(By.CSS_SELECTOR, "p.author, .xpl-authors-name-list")
                         item['authors'] = author_el.text.strip()
                     except: 
                         item['authors'] = "Unknown"
 
-                    # Year extraction (Regex is safest)
+                    # Extract Date
                     try:
                         full_text = container.text
                         year_match = re.search(r'\b(19|20)\d{2}\b', full_text)
@@ -107,34 +123,44 @@ class IeeSpider(scrapy.Spider):
             if page_count >= self.max_pages:
                 break
 
-            # --- FIX 4: ROBUST PAGINATION ---
+            # 5. Handle Next Page
             try:
                 print("Looking for Next button...")
-                # IEEE 'Next' is usually an icon inside a list item with class 'next-btn'
                 next_btn = WebDriverWait(self.driver, 10).until(
                     EC.element_to_be_clickable((By.CSS_SELECTOR, "li.next-btn button, li.next-btn a"))
                 )
-                
                 self.driver.execute_script("arguments[0].scrollIntoView();", next_btn)
                 time.sleep(1)
                 self.driver.execute_script("arguments[0].click();", next_btn)
-                
                 print(f"Clicked Next. Loading Page {page_count + 1}...")
                 
-                # Wait for content to change
+                # Wait for the results to refresh
                 time.sleep(5)
                 page_count += 1
-                
             except Exception as e:
                 print(f"Pagination stopped: {str(e)}")
                 break
 
-    def closed(self, reason):
-        print("\n--- SPIDER FINISHED. EXPORTING JSON ---")
-        try:
-            self.driver.quit()
-        except: pass
-        
+    def spider_closed(self, spider):
+        """
+        Graceful Shutdown to prevent [WinError 6]
+        """
+        print("\n--- IEEE SPIDER FINISHED. CLOSING... ---")
+        if self.driver:
+            try:
+                # We defer the quit slightly to ensure signals are clear
+                self.driver.quit()
+            except OSError:
+                pass # Suppress the 'handle is invalid' error
+            except Exception:
+                pass
+            finally:
+                self.driver = None # Prevent __del__ from firing
+
+        # DB Cleanup and Export logic
+        self.export_data()
+
+    def export_data(self):
         try:
             client = pymongo.MongoClient("mongodb://localhost:27017/")
             db = client["aci"]
@@ -148,14 +174,14 @@ class IeeSpider(scrapy.Spider):
             
             collection.create_index([("title", pymongo.ASCENDING)], unique=True)
             
-            # Export
+            # Export specific results
             cursor = collection.find({"source": "IEEE Xplore"}, {"_id": 0})
             articles = list(cursor)
 
             with open('ieee_results.json', 'w', encoding='utf-8') as f:
                 json.dump(articles, f, indent=4, ensure_ascii=False)
             
-            print(f"Cleanup done. Exported {len(articles)} articles to 'ieee_results.json'")
+            print(f"Exported {len(articles)} IEEE articles.")
             
         except Exception as e: 
-            print(f"DB/Export Error: {e}")
+            print(f"DB Error: {e}")
